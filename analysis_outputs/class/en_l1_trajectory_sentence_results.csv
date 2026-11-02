@@ -1,0 +1,481 @@
+sentence_id,sentence,language_condition,training_condition,stage,layer_index,layer_name,cosine_similarity,cosine_distance
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",German,Sequential,Epoch 1,0,embedding,-0.498138964176178,1.498138964176178
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",German,Sequential,Epoch 1,1,transformer_layer_1,0.753238320350647,0.24676167964935303
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",German,Sequential,Epoch 1,2,transformer_layer_2,0.852039098739624,0.14796090126037598
+1,"Anyhow, it would be better now while there is still time!'",German,Sequential,Epoch 1,0,embedding,-0.19411036372184753,1.1941103637218475
+1,"Anyhow, it would be better now while there is still time!'",German,Sequential,Epoch 1,1,transformer_layer_1,0.7859817743301392,0.21401822566986084
+1,"Anyhow, it would be better now while there is still time!'",German,Sequential,Epoch 1,2,transformer_layer_2,0.8670549988746643,0.1329450011253357
+2,"""Leave England?",German,Sequential,Epoch 1,0,embedding,0.22815169394016266,0.7718483060598373
+2,"""Leave England?",German,Sequential,Epoch 1,1,transformer_layer_1,0.7921501994132996,0.20784980058670044
+2,"""Leave England?",German,Sequential,Epoch 1,2,transformer_layer_2,0.8678469061851501,0.13215309381484985
+3,At Fribourg there was a minister—,German,Sequential,Epoch 1,0,embedding,-0.07460594177246094,1.074605941772461
+3,At Fribourg there was a minister—,German,Sequential,Epoch 1,1,transformer_layer_1,0.7112020254135132,0.2887979745864868
+3,At Fribourg there was a minister—,German,Sequential,Epoch 1,2,transformer_layer_2,0.8456384539604187,0.1543615460395813
+4,But come in...,German,Sequential,Epoch 1,0,embedding,0.5612905025482178,0.4387094974517822
+4,But come in...,German,Sequential,Epoch 1,1,transformer_layer_1,0.7657904624938965,0.23420953750610352
+4,But come in...,German,Sequential,Epoch 1,2,transformer_layer_2,0.8650382161140442,0.1349617838859558
+5,I was chilled with fear.,German,Sequential,Epoch 1,0,embedding,0.06135290861129761,0.9386470913887024
+5,I was chilled with fear.,German,Sequential,Epoch 1,1,transformer_layer_1,0.7202499508857727,0.2797500491142273
+5,I was chilled with fear.,German,Sequential,Epoch 1,2,transformer_layer_2,0.8441981077194214,0.1558018922805786
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,German,Sequential,Epoch 1,0,embedding,-0.4732474982738495,1.4732474982738495
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,German,Sequential,Epoch 1,1,transformer_layer_1,0.7934116125106812,0.20658838748931885
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,German,Sequential,Epoch 1,2,transformer_layer_2,0.8538461327552795,0.14615386724472046
+7,"They began slowly, then went more rapidly.",German,Sequential,Epoch 1,0,embedding,0.052763767540454865,0.9472362324595451
+7,"They began slowly, then went more rapidly.",German,Sequential,Epoch 1,1,transformer_layer_1,0.7860276699066162,0.2139723300933838
+7,"They began slowly, then went more rapidly.",German,Sequential,Epoch 1,2,transformer_layer_2,0.8745046257972717,0.12549537420272827
+8,'All our own people.,German,Sequential,Epoch 1,0,embedding,0.2628162205219269,0.7371837794780731
+8,'All our own people.,German,Sequential,Epoch 1,1,transformer_layer_1,0.7616692781448364,0.23833072185516357
+8,'All our own people.,German,Sequential,Epoch 1,2,transformer_layer_2,0.8605425357818604,0.13945746421813965
+9,There was no guilt.,German,Sequential,Epoch 1,0,embedding,0.43037086725234985,0.5696291327476501
+9,There was no guilt.,German,Sequential,Epoch 1,1,transformer_layer_1,0.7977720499038696,0.20222795009613037
+9,There was no guilt.,German,Sequential,Epoch 1,2,transformer_layer_2,0.8741228580474854,0.12587714195251465
+10,"""You, Tom!",German,Sequential,Epoch 1,0,embedding,0.8304941654205322,0.16950583457946777
+10,"""You, Tom!",German,Sequential,Epoch 1,1,transformer_layer_1,0.76678466796875,0.23321533203125
+10,"""You, Tom!",German,Sequential,Epoch 1,2,transformer_layer_2,0.8727957010269165,0.1272042989730835
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",German,Sequential,Epoch 1,0,embedding,-0.5360687971115112,1.5360687971115112
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",German,Sequential,Epoch 1,1,transformer_layer_1,0.8111749291419983,0.1888250708580017
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",German,Sequential,Epoch 1,2,transformer_layer_2,0.8719667196273804,0.12803328037261963
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",German,Sequential,Epoch 1,0,embedding,-0.35489988327026367,1.3548998832702637
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",German,Sequential,Epoch 1,1,transformer_layer_1,0.7947604060173035,0.20523959398269653
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",German,Sequential,Epoch 1,2,transformer_layer_2,0.867835283279419,0.13216471672058105
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",German,Sequential,Epoch 1,0,embedding,-0.05772235244512558,1.0577223524451256
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",German,Sequential,Epoch 1,1,transformer_layer_1,0.760951042175293,0.23904895782470703
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",German,Sequential,Epoch 1,2,transformer_layer_2,0.8572819232940674,0.14271807670593262
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",German,Sequential,Epoch 1,0,embedding,0.4563273787498474,0.5436726212501526
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",German,Sequential,Epoch 1,1,transformer_layer_1,0.798005223274231,0.20199477672576904
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",German,Sequential,Epoch 1,2,transformer_layer_2,0.8758640289306641,0.12413597106933594
+15,Poor lads! they--like Tom--had suffered a relapse.,German,Sequential,Epoch 1,0,embedding,-0.12667065858840942,1.1266706585884094
+15,Poor lads! they--like Tom--had suffered a relapse.,German,Sequential,Epoch 1,1,transformer_layer_1,0.7977406978607178,0.20225930213928223
+15,Poor lads! they--like Tom--had suffered a relapse.,German,Sequential,Epoch 1,2,transformer_layer_2,0.8715053200721741,0.12849467992782593
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",German,Sequential,Epoch 1,0,embedding,-0.10153182595968246,1.1015318259596825
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",German,Sequential,Epoch 1,1,transformer_layer_1,0.7246927618980408,0.27530723810195923
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",German,Sequential,Epoch 1,2,transformer_layer_2,0.8426849842071533,0.15731501579284668
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,German,Sequential,Epoch 1,0,embedding,-0.21255140006542206,1.212551400065422
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,German,Sequential,Epoch 1,1,transformer_layer_1,0.7626587748527527,0.23734122514724731
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,German,Sequential,Epoch 1,2,transformer_layer_2,0.8596458435058594,0.14035415649414062
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",German,Sequential,Epoch 1,0,embedding,-0.17695727944374084,1.1769572794437408
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",German,Sequential,Epoch 1,1,transformer_layer_1,0.7642329335212708,0.23576706647872925
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",German,Sequential,Epoch 1,2,transformer_layer_2,0.858847439289093,0.14115256071090698
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",German,Sequential,Epoch 1,0,embedding,-0.42584723234176636,1.4258472323417664
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",German,Sequential,Epoch 1,1,transformer_layer_1,0.7938119173049927,0.20618808269500732
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",German,Sequential,Epoch 1,2,transformer_layer_2,0.8638491630554199,0.13615083694458008
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",German,Sequential,Final,0,embedding,-0.5859726071357727,1.5859726071357727
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",German,Sequential,Final,1,transformer_layer_1,0.7422099113464355,0.25779008865356445
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",German,Sequential,Final,2,transformer_layer_2,0.8469393253326416,0.1530606746673584
+1,"Anyhow, it would be better now while there is still time!'",German,Sequential,Final,0,embedding,-0.328927218914032,1.328927218914032
+1,"Anyhow, it would be better now while there is still time!'",German,Sequential,Final,1,transformer_layer_1,0.7667844295501709,0.2332155704498291
+1,"Anyhow, it would be better now while there is still time!'",German,Sequential,Final,2,transformer_layer_2,0.8516634702682495,0.1483365297317505
+2,"""Leave England?",German,Sequential,Final,0,embedding,0.1092623919248581,0.8907376080751419
+2,"""Leave England?",German,Sequential,Final,1,transformer_layer_1,0.7774451971054077,0.22255480289459229
+2,"""Leave England?",German,Sequential,Final,2,transformer_layer_2,0.8667883276939392,0.1332116723060608
+3,At Fribourg there was a minister—,German,Sequential,Final,0,embedding,-0.14491555094718933,1.1449155509471893
+3,At Fribourg there was a minister—,German,Sequential,Final,1,transformer_layer_1,0.6398636698722839,0.36013633012771606
+3,At Fribourg there was a minister—,German,Sequential,Final,2,transformer_layer_2,0.820755660533905,0.17924433946609497
+4,But come in...,German,Sequential,Final,0,embedding,0.4624090790748596,0.5375909209251404
+4,But come in...,German,Sequential,Final,1,transformer_layer_1,0.7428262829780579,0.25717371702194214
+4,But come in...,German,Sequential,Final,2,transformer_layer_2,0.8636869192123413,0.1363130807876587
+5,I was chilled with fear.,German,Sequential,Final,0,embedding,-0.05557052791118622,1.0555705279111862
+5,I was chilled with fear.,German,Sequential,Final,1,transformer_layer_1,0.7091655731201172,0.2908344268798828
+5,I was chilled with fear.,German,Sequential,Final,2,transformer_layer_2,0.8453522324562073,0.15464776754379272
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,German,Sequential,Final,0,embedding,-0.5383374691009521,1.5383374691009521
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,German,Sequential,Final,1,transformer_layer_1,0.7927829027175903,0.20721709728240967
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,German,Sequential,Final,2,transformer_layer_2,0.8558862805366516,0.1441137194633484
+7,"They began slowly, then went more rapidly.",German,Sequential,Final,0,embedding,-0.08542414754629135,1.0854241475462914
+7,"They began slowly, then went more rapidly.",German,Sequential,Final,1,transformer_layer_1,0.7651711702346802,0.23482882976531982
+7,"They began slowly, then went more rapidly.",German,Sequential,Final,2,transformer_layer_2,0.8658270239830017,0.1341729760169983
+8,'All our own people.,German,Sequential,Final,0,embedding,0.12970201671123505,0.870297983288765
+8,'All our own people.,German,Sequential,Final,1,transformer_layer_1,0.7830598950386047,0.21694010496139526
+8,'All our own people.,German,Sequential,Final,2,transformer_layer_2,0.870434045791626,0.12956595420837402
+9,There was no guilt.,German,Sequential,Final,0,embedding,0.3121225833892822,0.6878774166107178
+9,There was no guilt.,German,Sequential,Final,1,transformer_layer_1,0.7473841905593872,0.2526158094406128
+9,There was no guilt.,German,Sequential,Final,2,transformer_layer_2,0.8533013463020325,0.14669865369796753
+10,"""You, Tom!",German,Sequential,Final,0,embedding,0.7491379976272583,0.2508620023727417
+10,"""You, Tom!",German,Sequential,Final,1,transformer_layer_1,0.7277757525444031,0.2722242474555969
+10,"""You, Tom!",German,Sequential,Final,2,transformer_layer_2,0.8448212146759033,0.15517878532409668
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",German,Sequential,Final,0,embedding,-0.5904032588005066,1.5904032588005066
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",German,Sequential,Final,1,transformer_layer_1,0.7879279851913452,0.21207201480865479
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",German,Sequential,Final,2,transformer_layer_2,0.8746584057807922,0.12534159421920776
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",German,Sequential,Final,0,embedding,-0.4346843957901001,1.4346843957901
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",German,Sequential,Final,1,transformer_layer_1,0.7967592477798462,0.2032407522201538
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",German,Sequential,Final,2,transformer_layer_2,0.8676924705505371,0.1323075294494629
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",German,Sequential,Final,0,embedding,-0.25054168701171875,1.2505416870117188
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",German,Sequential,Final,1,transformer_layer_1,0.7784587144851685,0.22154128551483154
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",German,Sequential,Final,2,transformer_layer_2,0.8705931305885315,0.1294068694114685
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",German,Sequential,Final,0,embedding,0.23949861526489258,0.7605013847351074
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",German,Sequential,Final,1,transformer_layer_1,0.7799406051635742,0.22005939483642578
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",German,Sequential,Final,2,transformer_layer_2,0.8749402165412903,0.12505978345870972
+15,Poor lads! they--like Tom--had suffered a relapse.,German,Sequential,Final,0,embedding,-0.20024044811725616,1.2002404481172562
+15,Poor lads! they--like Tom--had suffered a relapse.,German,Sequential,Final,1,transformer_layer_1,0.8172470331192017,0.18275296688079834
+15,Poor lads! they--like Tom--had suffered a relapse.,German,Sequential,Final,2,transformer_layer_2,0.8954843878746033,0.10451561212539673
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",German,Sequential,Final,0,embedding,-0.3145715594291687,1.3145715594291687
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",German,Sequential,Final,1,transformer_layer_1,0.758057177066803,0.24194282293319702
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",German,Sequential,Final,2,transformer_layer_2,0.8611023426055908,0.13889765739440918
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,German,Sequential,Final,0,embedding,-0.34561052918434143,1.3456105291843414
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,German,Sequential,Final,1,transformer_layer_1,0.7806140184402466,0.21938598155975342
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,German,Sequential,Final,2,transformer_layer_2,0.8624706864356995,0.13752931356430054
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",German,Sequential,Final,0,embedding,-0.3040231168270111,1.304023116827011
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",German,Sequential,Final,1,transformer_layer_1,0.7813221216201782,0.21867787837982178
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",German,Sequential,Final,2,transformer_layer_2,0.8659144639968872,0.1340855360031128
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",German,Sequential,Final,0,embedding,-0.5005289912223816,1.5005289912223816
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",German,Sequential,Final,1,transformer_layer_1,0.7921810150146484,0.20781898498535156
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",German,Sequential,Final,2,transformer_layer_2,0.8606258630752563,0.13937413692474365
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",German,EWC,Epoch 1,0,embedding,-0.4884873330593109,1.488487333059311
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",German,EWC,Epoch 1,1,transformer_layer_1,0.7537823915481567,0.24621760845184326
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",German,EWC,Epoch 1,2,transformer_layer_2,0.8521369099617004,0.14786309003829956
+1,"Anyhow, it would be better now while there is still time!'",German,EWC,Epoch 1,0,embedding,-0.18267877399921417,1.1826787739992142
+1,"Anyhow, it would be better now while there is still time!'",German,EWC,Epoch 1,1,transformer_layer_1,0.7864243984222412,0.2135756015777588
+1,"Anyhow, it would be better now while there is still time!'",German,EWC,Epoch 1,2,transformer_layer_2,0.8671808838844299,0.13281911611557007
+2,"""Leave England?",German,EWC,Epoch 1,0,embedding,0.2328747808933258,0.7671252191066742
+2,"""Leave England?",German,EWC,Epoch 1,1,transformer_layer_1,0.7932049036026001,0.2067950963973999
+2,"""Leave England?",German,EWC,Epoch 1,2,transformer_layer_2,0.8683843612670898,0.13161563873291016
+3,At Fribourg there was a minister—,German,EWC,Epoch 1,0,embedding,-0.06919931620359421,1.0691993162035942
+3,At Fribourg there was a minister—,German,EWC,Epoch 1,1,transformer_layer_1,0.7111390829086304,0.28886091709136963
+3,At Fribourg there was a minister—,German,EWC,Epoch 1,2,transformer_layer_2,0.845491886138916,0.15450811386108398
+4,But come in...,German,EWC,Epoch 1,0,embedding,0.5675250887870789,0.43247491121292114
+4,But come in...,German,EWC,Epoch 1,1,transformer_layer_1,0.7664029598236084,0.2335970401763916
+4,But come in...,German,EWC,Epoch 1,2,transformer_layer_2,0.865385890007019,0.13461410999298096
+5,I was chilled with fear.,German,EWC,Epoch 1,0,embedding,0.0673181340098381,0.9326818659901619
+5,I was chilled with fear.,German,EWC,Epoch 1,1,transformer_layer_1,0.72120201587677,0.27879798412323
+5,I was chilled with fear.,German,EWC,Epoch 1,2,transformer_layer_2,0.8444334864616394,0.1555665135383606
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,German,EWC,Epoch 1,0,embedding,-0.46857139468193054,1.4685713946819305
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,German,EWC,Epoch 1,1,transformer_layer_1,0.7936549782752991,0.20634502172470093
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,German,EWC,Epoch 1,2,transformer_layer_2,0.8538124561309814,0.14618754386901855
+7,"They began slowly, then went more rapidly.",German,EWC,Epoch 1,0,embedding,0.06710085272789001,0.93289914727211
+7,"They began slowly, then went more rapidly.",German,EWC,Epoch 1,1,transformer_layer_1,0.7869874835014343,0.21301251649856567
+7,"They began slowly, then went more rapidly.",German,EWC,Epoch 1,2,transformer_layer_2,0.8746564388275146,0.12534356117248535
+8,'All our own people.,German,EWC,Epoch 1,0,embedding,0.27071067690849304,0.729289323091507
+8,'All our own people.,German,EWC,Epoch 1,1,transformer_layer_1,0.762326717376709,0.23767328262329102
+8,'All our own people.,German,EWC,Epoch 1,2,transformer_layer_2,0.8608238101005554,0.13917618989944458
+9,There was no guilt.,German,EWC,Epoch 1,0,embedding,0.43526795506477356,0.5647320449352264
+9,There was no guilt.,German,EWC,Epoch 1,1,transformer_layer_1,0.7985153198242188,0.20148468017578125
+9,There was no guilt.,German,EWC,Epoch 1,2,transformer_layer_2,0.8743629455566406,0.12563705444335938
+10,"""You, Tom!",German,EWC,Epoch 1,0,embedding,0.8338574171066284,0.16614258289337158
+10,"""You, Tom!",German,EWC,Epoch 1,1,transformer_layer_1,0.7672989964485168,0.23270100355148315
+10,"""You, Tom!",German,EWC,Epoch 1,2,transformer_layer_2,0.8728591203689575,0.12714087963104248
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",German,EWC,Epoch 1,0,embedding,-0.5289809107780457,1.5289809107780457
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",German,EWC,Epoch 1,1,transformer_layer_1,0.8113559484481812,0.18864405155181885
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",German,EWC,Epoch 1,2,transformer_layer_2,0.871903121471405,0.12809687852859497
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",German,EWC,Epoch 1,0,embedding,-0.3460879623889923,1.3460879623889923
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",German,EWC,Epoch 1,1,transformer_layer_1,0.7954179644584656,0.20458203554153442
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",German,EWC,Epoch 1,2,transformer_layer_2,0.8680241703987122,0.13197582960128784
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",German,EWC,Epoch 1,0,embedding,-0.03967335820198059,1.0396733582019806
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",German,EWC,Epoch 1,1,transformer_layer_1,0.7616903781890869,0.23830962181091309
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",German,EWC,Epoch 1,2,transformer_layer_2,0.8574886322021484,0.14251136779785156
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",German,EWC,Epoch 1,0,embedding,0.46995124220848083,0.5300487577915192
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",German,EWC,Epoch 1,1,transformer_layer_1,0.7984074354171753,0.2015925645828247
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",German,EWC,Epoch 1,2,transformer_layer_2,0.8758600950241089,0.12413990497589111
+15,Poor lads! they--like Tom--had suffered a relapse.,German,EWC,Epoch 1,0,embedding,-0.11928542703390121,1.1192854270339012
+15,Poor lads! they--like Tom--had suffered a relapse.,German,EWC,Epoch 1,1,transformer_layer_1,0.7980383634567261,0.20196163654327393
+15,Poor lads! they--like Tom--had suffered a relapse.,German,EWC,Epoch 1,2,transformer_layer_2,0.8715993762016296,0.12840062379837036
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",German,EWC,Epoch 1,0,embedding,-0.07769235223531723,1.0776923522353172
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",German,EWC,Epoch 1,1,transformer_layer_1,0.7251840233802795,0.27481597661972046
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",German,EWC,Epoch 1,2,transformer_layer_2,0.8428102135658264,0.15718978643417358
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,German,EWC,Epoch 1,0,embedding,-0.19883114099502563,1.1988311409950256
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,German,EWC,Epoch 1,1,transformer_layer_1,0.7630003690719604,0.23699963092803955
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,German,EWC,Epoch 1,2,transformer_layer_2,0.8597680330276489,0.14023196697235107
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",German,EWC,Epoch 1,0,embedding,-0.16661809384822845,1.1666180938482285
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",German,EWC,Epoch 1,1,transformer_layer_1,0.7643272876739502,0.2356727123260498
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",German,EWC,Epoch 1,2,transformer_layer_2,0.8588151335716248,0.14118486642837524
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",German,EWC,Epoch 1,0,embedding,-0.41856253147125244,1.4185625314712524
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",German,EWC,Epoch 1,1,transformer_layer_1,0.7940421104431152,0.20595788955688477
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",German,EWC,Epoch 1,2,transformer_layer_2,0.8638665080070496,0.13613349199295044
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",German,EWC,Final,0,embedding,-0.5749281048774719,1.574928104877472
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",German,EWC,Final,1,transformer_layer_1,0.7431550621986389,0.2568449378013611
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",German,EWC,Final,2,transformer_layer_2,0.8476370573043823,0.15236294269561768
+1,"Anyhow, it would be better now while there is still time!'",German,EWC,Final,0,embedding,-0.3134995400905609,1.313499540090561
+1,"Anyhow, it would be better now while there is still time!'",German,EWC,Final,1,transformer_layer_1,0.7672874331474304,0.23271256685256958
+1,"Anyhow, it would be better now while there is still time!'",German,EWC,Final,2,transformer_layer_2,0.8524665832519531,0.14753341674804688
+2,"""Leave England?",German,EWC,Final,0,embedding,0.11685308068990707,0.8831469193100929
+2,"""Leave England?",German,EWC,Final,1,transformer_layer_1,0.778002917766571,0.22199708223342896
+2,"""Leave England?",German,EWC,Final,2,transformer_layer_2,0.8678327202796936,0.1321672797203064
+3,At Fribourg there was a minister—,German,EWC,Final,0,embedding,-0.13724163174629211,1.1372416317462921
+3,At Fribourg there was a minister—,German,EWC,Final,1,transformer_layer_1,0.6397323608398438,0.36026763916015625
+3,At Fribourg there was a minister—,German,EWC,Final,2,transformer_layer_2,0.8213039040565491,0.17869609594345093
+4,But come in...,German,EWC,Final,0,embedding,0.4738296568393707,0.5261703431606293
+4,But come in...,German,EWC,Final,1,transformer_layer_1,0.7430788278579712,0.2569211721420288
+4,But come in...,German,EWC,Final,2,transformer_layer_2,0.8644500374794006,0.13554996252059937
+5,I was chilled with fear.,German,EWC,Final,0,embedding,-0.047220684587955475,1.0472206845879555
+5,I was chilled with fear.,German,EWC,Final,1,transformer_layer_1,0.7090436220169067,0.29095637798309326
+5,I was chilled with fear.,German,EWC,Final,2,transformer_layer_2,0.845754861831665,0.15424513816833496
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,German,EWC,Final,0,embedding,-0.5323804616928101,1.53238046169281
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,German,EWC,Final,1,transformer_layer_1,0.7930548191070557,0.20694518089294434
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,German,EWC,Final,2,transformer_layer_2,0.8564010858535767,0.14359891414642334
+7,"They began slowly, then went more rapidly.",German,EWC,Final,0,embedding,-0.06471005082130432,1.0647100508213043
+7,"They began slowly, then went more rapidly.",German,EWC,Final,1,transformer_layer_1,0.766409158706665,0.23359084129333496
+7,"They began slowly, then went more rapidly.",German,EWC,Final,2,transformer_layer_2,0.8664309978485107,0.13356900215148926
+8,'All our own people.,German,EWC,Final,0,embedding,0.14231441915035248,0.8576855808496475
+8,'All our own people.,German,EWC,Final,1,transformer_layer_1,0.7831980586051941,0.2168019413948059
+8,'All our own people.,German,EWC,Final,2,transformer_layer_2,0.8709737062454224,0.12902629375457764
+9,There was no guilt.,German,EWC,Final,0,embedding,0.31962329149246216,0.6803767085075378
+9,There was no guilt.,German,EWC,Final,1,transformer_layer_1,0.7478693723678589,0.2521306276321411
+9,There was no guilt.,German,EWC,Final,2,transformer_layer_2,0.8541923761367798,0.14580762386322021
+10,"""You, Tom!",German,EWC,Final,0,embedding,0.7571612000465393,0.2428387999534607
+10,"""You, Tom!",German,EWC,Final,1,transformer_layer_1,0.7283505201339722,0.27164947986602783
+10,"""You, Tom!",German,EWC,Final,2,transformer_layer_2,0.8457964062690735,0.1542035937309265
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",German,EWC,Final,0,embedding,-0.5818336009979248,1.5818336009979248
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",German,EWC,Final,1,transformer_layer_1,0.7890476584434509,0.21095234155654907
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",German,EWC,Final,2,transformer_layer_2,0.8753364086151123,0.1246635913848877
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",German,EWC,Final,0,embedding,-0.42342060804367065,1.4234206080436707
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",German,EWC,Final,1,transformer_layer_1,0.7974383234977722,0.20256167650222778
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",German,EWC,Final,2,transformer_layer_2,0.8684797286987305,0.13152027130126953
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",German,EWC,Final,0,embedding,-0.22703027725219727,1.2270302772521973
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",German,EWC,Final,1,transformer_layer_1,0.7790616750717163,0.2209383249282837
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",German,EWC,Final,2,transformer_layer_2,0.8709480166435242,0.12905198335647583
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",German,EWC,Final,0,embedding,0.2629951238632202,0.7370048761367798
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",German,EWC,Final,1,transformer_layer_1,0.7807615995407104,0.21923840045928955
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",German,EWC,Final,2,transformer_layer_2,0.8756032586097717,0.12439674139022827
+15,Poor lads! they--like Tom--had suffered a relapse.,German,EWC,Final,0,embedding,-0.18996287882328033,1.1899628788232803
+15,Poor lads! they--like Tom--had suffered a relapse.,German,EWC,Final,1,transformer_layer_1,0.8176706433296204,0.18232935667037964
+15,Poor lads! they--like Tom--had suffered a relapse.,German,EWC,Final,2,transformer_layer_2,0.8961223363876343,0.10387766361236572
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",German,EWC,Final,0,embedding,-0.28502920269966125,1.2850292026996613
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",German,EWC,Final,1,transformer_layer_1,0.7579595446586609,0.2420404553413391
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",German,EWC,Final,2,transformer_layer_2,0.8610183596611023,0.1389816403388977
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,German,EWC,Final,0,embedding,-0.3277242183685303,1.3277242183685303
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,German,EWC,Final,1,transformer_layer_1,0.780937135219574,0.21906286478042603
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,German,EWC,Final,2,transformer_layer_2,0.8632141351699829,0.1367858648300171
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",German,EWC,Final,0,embedding,-0.29007723927497864,1.2900772392749786
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",German,EWC,Final,1,transformer_layer_1,0.7818670868873596,0.21813291311264038
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",German,EWC,Final,2,transformer_layer_2,0.8666167259216309,0.13338327407836914
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",German,EWC,Final,0,embedding,-0.49120017886161804,1.491200178861618
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",German,EWC,Final,1,transformer_layer_1,0.7929301261901855,0.20706987380981445
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",German,EWC,Final,2,transformer_layer_2,0.8612929582595825,0.13870704174041748
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",Finnish,Sequential,Epoch 1,0,embedding,-0.41334494948387146,1.4133449494838715
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7941897511482239,0.20581024885177612
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8266735076904297,0.1733264923095703
+1,"Anyhow, it would be better now while there is still time!'",Finnish,Sequential,Epoch 1,0,embedding,-0.13447557389736176,1.1344755738973618
+1,"Anyhow, it would be better now while there is still time!'",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8359678983688354,0.16403210163116455
+1,"Anyhow, it would be better now while there is still time!'",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8099671006202698,0.19003289937973022
+2,"""Leave England?",Finnish,Sequential,Epoch 1,0,embedding,0.2695208191871643,0.7304791808128357
+2,"""Leave England?",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7023996710777283,0.29760032892227173
+2,"""Leave England?",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.9250604510307312,0.0749395489692688
+3,At Fribourg there was a minister—,Finnish,Sequential,Epoch 1,0,embedding,-0.16954484581947327,1.1695448458194733
+3,At Fribourg there was a minister—,Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7878945469856262,0.21210545301437378
+3,At Fribourg there was a minister—,Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8141223788261414,0.18587762117385864
+4,But come in...,Finnish,Sequential,Epoch 1,0,embedding,0.12885308265686035,0.8711469173431396
+4,But come in...,Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8575494885444641,0.1424505114555359
+4,But come in...,Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8303934335708618,0.16960656642913818
+5,I was chilled with fear.,Finnish,Sequential,Epoch 1,0,embedding,0.02204458974301815,0.9779554102569818
+5,I was chilled with fear.,Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8023757934570312,0.19762420654296875
+5,I was chilled with fear.,Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8938656449317932,0.10613435506820679
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,Finnish,Sequential,Epoch 1,0,embedding,-0.3492836356163025,1.3492836356163025
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8290199041366577,0.17098009586334229
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8751733899116516,0.12482661008834839
+7,"They began slowly, then went more rapidly.",Finnish,Sequential,Epoch 1,0,embedding,0.16821089386940002,0.8317891061306
+7,"They began slowly, then went more rapidly.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8106607794761658,0.18933922052383423
+7,"They began slowly, then went more rapidly.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8518719673156738,0.14812803268432617
+8,'All our own people.,Finnish,Sequential,Epoch 1,0,embedding,0.2371002733707428,0.7628997266292572
+8,'All our own people.,Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8334490656852722,0.16655093431472778
+8,'All our own people.,Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8880028128623962,0.11199718713760376
+9,There was no guilt.,Finnish,Sequential,Epoch 1,0,embedding,0.3427499234676361,0.6572500765323639
+9,There was no guilt.,Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8366712331771851,0.16332876682281494
+9,There was no guilt.,Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8587464690208435,0.1412535309791565
+10,"""You, Tom!",Finnish,Sequential,Epoch 1,0,embedding,0.6797475814819336,0.3202524185180664
+10,"""You, Tom!",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8345282077789307,0.16547179222106934
+10,"""You, Tom!",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8763704895973206,0.12362951040267944
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",Finnish,Sequential,Epoch 1,0,embedding,-0.2617524564266205,1.2617524564266205
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8024404644966125,0.19755953550338745
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8466447591781616,0.15335524082183838
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",Finnish,Sequential,Epoch 1,0,embedding,-0.24203789234161377,1.2420378923416138
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7920466661453247,0.2079533338546753
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8795844912528992,0.12041550874710083
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",Finnish,Sequential,Epoch 1,0,embedding,0.04314839467406273,0.9568516053259373
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8106062412261963,0.1893937587738037
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8567728996276855,0.14322710037231445
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",Finnish,Sequential,Epoch 1,0,embedding,0.37067532539367676,0.6293246746063232
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8251498937606812,0.17485010623931885
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8441895842552185,0.1558104157447815
+15,Poor lads! they--like Tom--had suffered a relapse.,Finnish,Sequential,Epoch 1,0,embedding,-0.008591286838054657,1.0085912868380547
+15,Poor lads! they--like Tom--had suffered a relapse.,Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7989132404327393,0.20108675956726074
+15,Poor lads! they--like Tom--had suffered a relapse.,Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8550503253936768,0.14494967460632324
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",Finnish,Sequential,Epoch 1,0,embedding,-0.012288212776184082,1.012288212776184
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7460591197013855,0.2539408802986145
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8668672442436218,0.13313275575637817
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,Finnish,Sequential,Epoch 1,0,embedding,-0.1667856127023697,1.1667856127023697
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7943160533905029,0.20568394660949707
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8686100244522095,0.13138997554779053
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",Finnish,Sequential,Epoch 1,0,embedding,-0.14537784457206726,1.1453778445720673
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7977046966552734,0.20229530334472656
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8628163933753967,0.13718360662460327
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",Finnish,Sequential,Epoch 1,0,embedding,-0.28458651900291443,1.2845865190029144
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8240690231323242,0.17593097686767578
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.8544682860374451,0.14553171396255493
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",Finnish,Sequential,Final,0,embedding,-0.47761452198028564,1.4776145219802856
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",Finnish,Sequential,Final,1,transformer_layer_1,0.7752570509910583,0.22474294900894165
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",Finnish,Sequential,Final,2,transformer_layer_2,0.8115224242210388,0.18847757577896118
+1,"Anyhow, it would be better now while there is still time!'",Finnish,Sequential,Final,0,embedding,-0.2575218975543976,1.2575218975543976
+1,"Anyhow, it would be better now while there is still time!'",Finnish,Sequential,Final,1,transformer_layer_1,0.8107961416244507,0.18920385837554932
+1,"Anyhow, it would be better now while there is still time!'",Finnish,Sequential,Final,2,transformer_layer_2,0.8092939257621765,0.1907060742378235
+2,"""Leave England?",Finnish,Sequential,Final,0,embedding,0.16311079263687134,0.8368892073631287
+2,"""Leave England?",Finnish,Sequential,Final,1,transformer_layer_1,0.7280870079994202,0.27191299200057983
+2,"""Leave England?",Finnish,Sequential,Final,2,transformer_layer_2,0.8998674154281616,0.10013258457183838
+3,At Fribourg there was a minister—,Finnish,Sequential,Final,0,embedding,-0.22144754230976105,1.221447542309761
+3,At Fribourg there was a minister—,Finnish,Sequential,Final,1,transformer_layer_1,0.7785900831222534,0.22140991687774658
+3,At Fribourg there was a minister—,Finnish,Sequential,Final,2,transformer_layer_2,0.8129699230194092,0.18703007698059082
+4,But come in...,Finnish,Sequential,Final,0,embedding,-0.018003694713115692,1.0180036947131157
+4,But come in...,Finnish,Sequential,Final,1,transformer_layer_1,0.7981201410293579,0.2018798589706421
+4,But come in...,Finnish,Sequential,Final,2,transformer_layer_2,0.8243597745895386,0.17564022541046143
+5,I was chilled with fear.,Finnish,Sequential,Final,0,embedding,-0.08856234699487686,1.0885623469948769
+5,I was chilled with fear.,Finnish,Sequential,Final,1,transformer_layer_1,0.7493905425071716,0.25060945749282837
+5,I was chilled with fear.,Finnish,Sequential,Final,2,transformer_layer_2,0.8545175790786743,0.14548242092132568
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,Finnish,Sequential,Final,0,embedding,-0.39352864027023315,1.3935286402702332
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,Finnish,Sequential,Final,1,transformer_layer_1,0.8394853472709656,0.16051465272903442
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,Finnish,Sequential,Final,2,transformer_layer_2,0.8400982022285461,0.15990179777145386
+7,"They began slowly, then went more rapidly.",Finnish,Sequential,Final,0,embedding,0.023669408634305,0.976330591365695
+7,"They began slowly, then went more rapidly.",Finnish,Sequential,Final,1,transformer_layer_1,0.8082852363586426,0.19171476364135742
+7,"They began slowly, then went more rapidly.",Finnish,Sequential,Final,2,transformer_layer_2,0.86539226770401,0.13460773229599
+8,'All our own people.,Finnish,Sequential,Final,0,embedding,0.10692198574542999,0.89307801425457
+8,'All our own people.,Finnish,Sequential,Final,1,transformer_layer_1,0.8216791749000549,0.17832082509994507
+8,'All our own people.,Finnish,Sequential,Final,2,transformer_layer_2,0.8668151497840881,0.13318485021591187
+9,There was no guilt.,Finnish,Sequential,Final,0,embedding,0.211449533700943,0.788550466299057
+9,There was no guilt.,Finnish,Sequential,Final,1,transformer_layer_1,0.7997255325317383,0.20027446746826172
+9,There was no guilt.,Finnish,Sequential,Final,2,transformer_layer_2,0.8657850027084351,0.13421499729156494
+10,"""You, Tom!",Finnish,Sequential,Final,0,embedding,0.5337061285972595,0.4662938714027405
+10,"""You, Tom!",Finnish,Sequential,Final,1,transformer_layer_1,0.7286902666091919,0.2713097333908081
+10,"""You, Tom!",Finnish,Sequential,Final,2,transformer_layer_2,0.9271601438522339,0.07283985614776611
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",Finnish,Sequential,Final,0,embedding,-0.33560600876808167,1.3356060087680817
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",Finnish,Sequential,Final,1,transformer_layer_1,0.8248292207717896,0.17517077922821045
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",Finnish,Sequential,Final,2,transformer_layer_2,0.8520100116729736,0.14798998832702637
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",Finnish,Sequential,Final,0,embedding,-0.3270629048347473,1.3270629048347473
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",Finnish,Sequential,Final,1,transformer_layer_1,0.8390318155288696,0.16096818447113037
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",Finnish,Sequential,Final,2,transformer_layer_2,0.8530563712120056,0.14694362878799438
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",Finnish,Sequential,Final,0,embedding,-0.09726820141077042,1.0972682014107704
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",Finnish,Sequential,Final,1,transformer_layer_1,0.788800060749054,0.21119993925094604
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",Finnish,Sequential,Final,2,transformer_layer_2,0.8484925031661987,0.15150749683380127
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",Finnish,Sequential,Final,0,embedding,0.17346379160881042,0.8265362083911896
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",Finnish,Sequential,Final,1,transformer_layer_1,0.7839195728302002,0.2160804271697998
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",Finnish,Sequential,Final,2,transformer_layer_2,0.8797702789306641,0.12022972106933594
+15,Poor lads! they--like Tom--had suffered a relapse.,Finnish,Sequential,Final,0,embedding,-0.10738985240459442,1.1073898524045944
+15,Poor lads! they--like Tom--had suffered a relapse.,Finnish,Sequential,Final,1,transformer_layer_1,0.8388736248016357,0.16112637519836426
+15,Poor lads! they--like Tom--had suffered a relapse.,Finnish,Sequential,Final,2,transformer_layer_2,0.8385046720504761,0.16149532794952393
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",Finnish,Sequential,Final,0,embedding,-0.17928136885166168,1.1792813688516617
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",Finnish,Sequential,Final,1,transformer_layer_1,0.7237199544906616,0.2762800455093384
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",Finnish,Sequential,Final,2,transformer_layer_2,0.8188446760177612,0.18115532398223877
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,Finnish,Sequential,Final,0,embedding,-0.26564493775367737,1.2656449377536774
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,Finnish,Sequential,Final,1,transformer_layer_1,0.8160535097122192,0.18394649028778076
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,Finnish,Sequential,Final,2,transformer_layer_2,0.8251831531524658,0.17481684684753418
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",Finnish,Sequential,Final,0,embedding,-0.2678261697292328,1.2678261697292328
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",Finnish,Sequential,Final,1,transformer_layer_1,0.8206713199615479,0.17932868003845215
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",Finnish,Sequential,Final,2,transformer_layer_2,0.843531608581543,0.15646839141845703
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",Finnish,Sequential,Final,0,embedding,-0.35811272263526917,1.3581127226352692
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",Finnish,Sequential,Final,1,transformer_layer_1,0.8151381015777588,0.1848618984222412
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",Finnish,Sequential,Final,2,transformer_layer_2,0.8465523719787598,0.15344762802124023
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",Finnish,EWC,Epoch 1,0,embedding,-0.4069172143936157,1.4069172143936157
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7955166101455688,0.20448338985443115
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.825991690158844,0.174008309841156
+1,"Anyhow, it would be better now while there is still time!'",Finnish,EWC,Epoch 1,0,embedding,-0.12750670313835144,1.1275067031383514
+1,"Anyhow, it would be better now while there is still time!'",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8367817401885986,0.16321825981140137
+1,"Anyhow, it would be better now while there is still time!'",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8089555501937866,0.19104444980621338
+2,"""Leave England?",Finnish,EWC,Epoch 1,0,embedding,0.27131789922714233,0.7286821007728577
+2,"""Leave England?",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7025055289268494,0.29749447107315063
+2,"""Leave England?",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.9249569177627563,0.07504308223724365
+3,At Fribourg there was a minister—,Finnish,EWC,Epoch 1,0,embedding,-0.16750940680503845,1.1675094068050385
+3,At Fribourg there was a minister—,Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7884520292282104,0.21154797077178955
+3,At Fribourg there was a minister—,Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8137558102607727,0.1862441897392273
+4,But come in...,Finnish,EWC,Epoch 1,0,embedding,0.1363961100578308,0.8636038899421692
+4,But come in...,Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8581157922744751,0.1418842077255249
+4,But come in...,Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8300474286079407,0.16995257139205933
+5,I was chilled with fear.,Finnish,EWC,Epoch 1,0,embedding,0.026223110035061836,0.9737768899649382
+5,I was chilled with fear.,Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8031606674194336,0.1968393325805664
+5,I was chilled with fear.,Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8935713171958923,0.10642868280410767
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,Finnish,EWC,Epoch 1,0,embedding,-0.34581929445266724,1.3458192944526672
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8295974731445312,0.17040252685546875
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8749415278434753,0.12505847215652466
+7,"They began slowly, then went more rapidly.",Finnish,EWC,Epoch 1,0,embedding,0.1753738969564438,0.8246261030435562
+7,"They began slowly, then went more rapidly.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8118447661399841,0.18815523386001587
+7,"They began slowly, then went more rapidly.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8510482311248779,0.14895176887512207
+8,'All our own people.,Finnish,EWC,Epoch 1,0,embedding,0.24215596914291382,0.7578440308570862
+8,'All our own people.,Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8339558839797974,0.16604411602020264
+8,'All our own people.,Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8878230452537537,0.11217695474624634
+9,There was no guilt.,Finnish,EWC,Epoch 1,0,embedding,0.34631532430648804,0.653684675693512
+9,There was no guilt.,Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8372275233268738,0.16277247667312622
+9,There was no guilt.,Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8584047555923462,0.1415952444076538
+10,"""You, Tom!",Finnish,EWC,Epoch 1,0,embedding,0.6822868585586548,0.3177131414413452
+10,"""You, Tom!",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8346767425537109,0.16532325744628906
+10,"""You, Tom!",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8758857846260071,0.12411421537399292
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",Finnish,EWC,Epoch 1,0,embedding,-0.2545414865016937,1.2545414865016937
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8034560680389404,0.19654393196105957
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8460649251937866,0.15393507480621338
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",Finnish,EWC,Epoch 1,0,embedding,-0.23632007837295532,1.2363200783729553
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7928513288497925,0.20714867115020752
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8792864680290222,0.12071353197097778
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",Finnish,EWC,Epoch 1,0,embedding,0.05371275916695595,0.946287240833044
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8121936917304993,0.18780630826950073
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8557831645011902,0.14421683549880981
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",Finnish,EWC,Epoch 1,0,embedding,0.3793030381202698,0.6206969618797302
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8258633613586426,0.17413663864135742
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8432015776634216,0.15679842233657837
+15,Poor lads! they--like Tom--had suffered a relapse.,Finnish,EWC,Epoch 1,0,embedding,-0.005087673664093018,1.005087673664093
+15,Poor lads! they--like Tom--had suffered a relapse.,Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7993988990783691,0.20060110092163086
+15,Poor lads! they--like Tom--had suffered a relapse.,Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8548146486282349,0.14518535137176514
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",Finnish,EWC,Epoch 1,0,embedding,0.0010948516428470612,0.9989051483571529
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7486813068389893,0.25131869316101074
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8653107285499573,0.13468927145004272
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,Finnish,EWC,Epoch 1,0,embedding,-0.15904216468334198,1.159042164683342
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7953645586967468,0.20463544130325317
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8682892918586731,0.1317107081413269
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",Finnish,EWC,Epoch 1,0,embedding,-0.13969382643699646,1.1396938264369965
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7985997796058655,0.20140022039413452
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8622827529907227,0.13771724700927734
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",Finnish,EWC,Epoch 1,0,embedding,-0.2793233394622803,1.2793233394622803
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8249266743659973,0.17507332563400269
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.8540284633636475,0.14597153663635254
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",Finnish,EWC,Final,0,embedding,-0.4674525260925293,1.4674525260925293
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",Finnish,EWC,Final,1,transformer_layer_1,0.7754858136177063,0.2245141863822937
+0,"She felt that in her and in her way of life could be found a model of what she herself was painfully seeking: interest in life, the worth of life – outside the social relations of girls to men, which now seemed disgusting to Kitty, who regarded them as shameful exhibitions of goods awaiting a buyer.",Finnish,EWC,Final,2,transformer_layer_2,0.8114482164382935,0.18855178356170654
+1,"Anyhow, it would be better now while there is still time!'",Finnish,EWC,Final,0,embedding,-0.24506869912147522,1.2450686991214752
+1,"Anyhow, it would be better now while there is still time!'",Finnish,EWC,Final,1,transformer_layer_1,0.8099980354309082,0.1900019645690918
+1,"Anyhow, it would be better now while there is still time!'",Finnish,EWC,Final,2,transformer_layer_2,0.808828592300415,0.19117140769958496
+2,"""Leave England?",Finnish,EWC,Final,0,embedding,0.16676479578018188,0.8332352042198181
+2,"""Leave England?",Finnish,EWC,Final,1,transformer_layer_1,0.7287178039550781,0.2712821960449219
+2,"""Leave England?",Finnish,EWC,Final,2,transformer_layer_2,0.8999272584915161,0.10007274150848389
+3,At Fribourg there was a minister—,Finnish,EWC,Final,0,embedding,-0.2175675630569458,1.2175675630569458
+3,At Fribourg there was a minister—,Finnish,EWC,Final,1,transformer_layer_1,0.7786716818809509,0.22132831811904907
+3,At Fribourg there was a minister—,Finnish,EWC,Final,2,transformer_layer_2,0.8126273155212402,0.18737268447875977
+4,But come in...,Finnish,EWC,Final,0,embedding,-0.002436567097902298,1.0024365670979023
+4,But come in...,Finnish,EWC,Final,1,transformer_layer_1,0.7983896732330322,0.20161032676696777
+4,But come in...,Finnish,EWC,Final,2,transformer_layer_2,0.824921727180481,0.17507827281951904
+5,I was chilled with fear.,Finnish,EWC,Final,0,embedding,-0.08042198419570923,1.0804219841957092
+5,I was chilled with fear.,Finnish,EWC,Final,1,transformer_layer_1,0.7495714426040649,0.25042855739593506
+5,I was chilled with fear.,Finnish,EWC,Final,2,transformer_layer_2,0.8544475436210632,0.14555245637893677
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,Finnish,EWC,Final,0,embedding,-0.387552946805954,1.387552946805954
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,Finnish,EWC,Final,1,transformer_layer_1,0.8396899104118347,0.16031008958816528
+6,'Vous comprenez l'anglais?' [You understand English?] asked Lydia Ivanovna and having received an affirmative answer she rose and began looking among the books on a shelf.,Finnish,EWC,Final,2,transformer_layer_2,0.8401607275009155,0.15983927249908447
+7,"They began slowly, then went more rapidly.",Finnish,EWC,Final,0,embedding,0.03804752603173256,0.9619524739682674
+7,"They began slowly, then went more rapidly.",Finnish,EWC,Final,1,transformer_layer_1,0.8082716464996338,0.1917283535003662
+7,"They began slowly, then went more rapidly.",Finnish,EWC,Final,2,transformer_layer_2,0.8650770783424377,0.13492292165756226
+8,'All our own people.,Finnish,EWC,Final,0,embedding,0.11735492944717407,0.8826450705528259
+8,'All our own people.,Finnish,EWC,Final,1,transformer_layer_1,0.8217207193374634,0.17827928066253662
+8,'All our own people.,Finnish,EWC,Final,2,transformer_layer_2,0.8669747710227966,0.13302522897720337
+9,There was no guilt.,Finnish,EWC,Final,0,embedding,0.21841195225715637,0.7815880477428436
+9,There was no guilt.,Finnish,EWC,Final,1,transformer_layer_1,0.7997210025787354,0.20027899742126465
+9,There was no guilt.,Finnish,EWC,Final,2,transformer_layer_2,0.8656386137008667,0.1343613862991333
+10,"""You, Tom!",Finnish,EWC,Final,0,embedding,0.5402275323867798,0.4597724676132202
+10,"""You, Tom!",Finnish,EWC,Final,1,transformer_layer_1,0.7283762693405151,0.27162373065948486
+10,"""You, Tom!",Finnish,EWC,Final,2,transformer_layer_2,0.9267550706863403,0.07324492931365967
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",Finnish,EWC,Final,0,embedding,-0.3239901065826416,1.3239901065826416
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",Finnish,EWC,Final,1,transformer_layer_1,0.8247489333152771,0.1752510666847229
+11,"His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained hysteria in his whole demeanor.",Finnish,EWC,Final,2,transformer_layer_2,0.8517152070999146,0.14828479290008545
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",Finnish,EWC,Final,0,embedding,-0.31730958819389343,1.3173095881938934
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",Finnish,EWC,Final,1,transformer_layer_1,0.839091420173645,0.16090857982635498
+12,"The horror and agitation were replaced by an expression of quiet, serious, and blissful attention.",Finnish,EWC,Final,2,transformer_layer_2,0.8529879450798035,0.14701205492019653
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",Finnish,EWC,Final,0,embedding,-0.07790585607290268,1.0779058560729027
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",Finnish,EWC,Final,1,transformer_layer_1,0.7891987562179565,0.21080124378204346
+13,"'There now! Had I only known that you don't despise me...' said Anna, 'you should all have come to us.",Finnish,EWC,Final,2,transformer_layer_2,0.848300576210022,0.15169942378997803
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",Finnish,EWC,Final,0,embedding,0.1914183497428894,0.8085816502571106
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",Finnish,EWC,Final,1,transformer_layer_1,0.7829228639602661,0.2170771360397339
+14,"You take an interest in that girl, my wife, I mean, and 'tis well.",Finnish,EWC,Final,2,transformer_layer_2,0.879176914691925,0.12082308530807495
+15,Poor lads! they--like Tom--had suffered a relapse.,Finnish,EWC,Final,0,embedding,-0.10112561285495758,1.1011256128549576
+15,Poor lads! they--like Tom--had suffered a relapse.,Finnish,EWC,Final,1,transformer_layer_1,0.8391736745834351,0.16082632541656494
+15,Poor lads! they--like Tom--had suffered a relapse.,Finnish,EWC,Final,2,transformer_layer_2,0.8384605646133423,0.16153943538665771
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",Finnish,EWC,Final,0,embedding,-0.15565165877342224,1.1556516587734222
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",Finnish,EWC,Final,1,transformer_layer_1,0.7240686416625977,0.27593135833740234
+16,"""I don't think I shall ever be afraid of you again, Bessie, because I have got used to you, and I shall soon have another set of people to dread.""",Finnish,EWC,Final,2,transformer_layer_2,0.8178686499595642,0.1821313500404358
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,Finnish,EWC,Final,0,embedding,-0.2519489824771881,1.251948982477188
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,Finnish,EWC,Final,1,transformer_layer_1,0.816153347492218,0.18384665250778198
+17,And he experienced a strange feeling which since his union with Anna sometimes overcame him.,Finnish,EWC,Final,2,transformer_layer_2,0.8252120614051819,0.17478793859481812
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",Finnish,EWC,Final,0,embedding,-0.25776463747024536,1.2577646374702454
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",Finnish,EWC,Final,1,transformer_layer_1,0.8205515146255493,0.17944848537445068
+18,"Public attention was distracted by the appearance of Monsieur Bournisien, who was going across the market with the holy oil.",Finnish,EWC,Final,2,transformer_layer_2,0.843293309211731,0.15670669078826904
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",Finnish,EWC,Final,0,embedding,-0.3491572439670563,1.3491572439670563
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",Finnish,EWC,Final,1,transformer_layer_1,0.8148707747459412,0.18512922525405884
+19,"'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",Finnish,EWC,Final,2,transformer_layer_2,0.8465034365653992,0.15349656343460083

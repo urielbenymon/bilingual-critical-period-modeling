@@ -1,0 +1,481 @@
+sentence_id,sentence,language_condition,training_condition,stage,layer_index,layer_name,cosine_similarity,cosine_distance
+0,"Du bist es, die mich ruft, Kinderräuberin! Nun denn: Verflucht seist du!",German,Sequential,Epoch 1,0,embedding,0.817136824131012,0.18286317586898804
+0,"Du bist es, die mich ruft, Kinderräuberin! Nun denn: Verflucht seist du!",German,Sequential,Epoch 1,1,transformer_layer_1,0.7734508514404297,0.2265491485595703
+0,"Du bist es, die mich ruft, Kinderräuberin! Nun denn: Verflucht seist du!",German,Sequential,Epoch 1,2,transformer_layer_2,0.8856415748596191,0.11435842514038086
+1,Der blutige Wiederschein des Ofens beleuchtete im ganzen Zimmer nur einen Wirrwarr schrecklicher Gegenstände.,German,Sequential,Epoch 1,0,embedding,0.7694878578186035,0.23051214218139648
+1,Der blutige Wiederschein des Ofens beleuchtete im ganzen Zimmer nur einen Wirrwarr schrecklicher Gegenstände.,German,Sequential,Epoch 1,1,transformer_layer_1,0.8517987728118896,0.14820122718811035
+1,Der blutige Wiederschein des Ofens beleuchtete im ganzen Zimmer nur einen Wirrwarr schrecklicher Gegenstände.,German,Sequential,Epoch 1,2,transformer_layer_2,0.8791947960853577,0.12080520391464233
+2,"»Ich muß mir die neuen Getreidewagen ansehen und feststellen, ob sie etwas taugen«, erwiderte Ljewin. »Und du, wo wirst du bleiben?«",German,Sequential,Epoch 1,0,embedding,0.4672147035598755,0.5327852964401245
+2,"»Ich muß mir die neuen Getreidewagen ansehen und feststellen, ob sie etwas taugen«, erwiderte Ljewin. »Und du, wo wirst du bleiben?«",German,Sequential,Epoch 1,1,transformer_layer_1,0.7694182395935059,0.23058176040649414
+2,"»Ich muß mir die neuen Getreidewagen ansehen und feststellen, ob sie etwas taugen«, erwiderte Ljewin. »Und du, wo wirst du bleiben?«",German,Sequential,Epoch 1,2,transformer_layer_2,0.8687577247619629,0.1312422752380371
+3,"Und dieser Zweck ist, seiner Klarheit unbeschadet, geheimnisvoll und wunderbar.",German,Sequential,Epoch 1,0,embedding,0.8745715022087097,0.12542849779129028
+3,"Und dieser Zweck ist, seiner Klarheit unbeschadet, geheimnisvoll und wunderbar.",German,Sequential,Epoch 1,1,transformer_layer_1,0.7432668209075928,0.2567331790924072
+3,"Und dieser Zweck ist, seiner Klarheit unbeschadet, geheimnisvoll und wunderbar.",German,Sequential,Epoch 1,2,transformer_layer_2,0.8586064577102661,0.1413935422897339
+4,"»Anna und ich halten auf den Fürsten Kusowlew«, erwiderte Betsy.",German,Sequential,Epoch 1,0,embedding,0.1296585500240326,0.8703414499759674
+4,"»Anna und ich halten auf den Fürsten Kusowlew«, erwiderte Betsy.",German,Sequential,Epoch 1,1,transformer_layer_1,0.7930168509483337,0.20698314905166626
+4,"»Anna und ich halten auf den Fürsten Kusowlew«, erwiderte Betsy.",German,Sequential,Epoch 1,2,transformer_layer_2,0.8677477836608887,0.13225221633911133
+5,"Nun hat er daran etwas, was ihn beschäftigt und interessiert.",German,Sequential,Epoch 1,0,embedding,0.5701563358306885,0.4298436641693115
+5,"Nun hat er daran etwas, was ihn beschäftigt und interessiert.",German,Sequential,Epoch 1,1,transformer_layer_1,0.8057273030281067,0.1942726969718933
+5,"Nun hat er daran etwas, was ihn beschäftigt und interessiert.",German,Sequential,Epoch 1,2,transformer_layer_2,0.8721756339073181,0.12782436609268188
+6,"Ich will Fräulein Bürstner gewiß nicht verleumden, sie ist ein gutes, liebes Mädchen, freundlich, ordentlich, pünktlich, arbeitsam, ich schätze das alles sehr, aber eines ist wahr, sie sollte stolzer, zurückhaltender sein.",German,Sequential,Epoch 1,0,embedding,0.852005124092102,0.14799487590789795
+6,"Ich will Fräulein Bürstner gewiß nicht verleumden, sie ist ein gutes, liebes Mädchen, freundlich, ordentlich, pünktlich, arbeitsam, ich schätze das alles sehr, aber eines ist wahr, sie sollte stolzer, zurückhaltender sein.",German,Sequential,Epoch 1,1,transformer_layer_1,0.7622643709182739,0.23773562908172607
+6,"Ich will Fräulein Bürstner gewiß nicht verleumden, sie ist ein gutes, liebes Mädchen, freundlich, ordentlich, pünktlich, arbeitsam, ich schätze das alles sehr, aber eines ist wahr, sie sollte stolzer, zurückhaltender sein.",German,Sequential,Epoch 1,2,transformer_layer_2,0.8770637512207031,0.12293624877929688
+7,"Die Esmeralda begann Brot zu zerbrocken, welches Djali zierlich aus ihrer hohlen Hand fraß.",German,Sequential,Epoch 1,0,embedding,0.7602565884590149,0.2397434115409851
+7,"Die Esmeralda begann Brot zu zerbrocken, welches Djali zierlich aus ihrer hohlen Hand fraß.",German,Sequential,Epoch 1,1,transformer_layer_1,0.8426451683044434,0.15735483169555664
+7,"Die Esmeralda begann Brot zu zerbrocken, welches Djali zierlich aus ihrer hohlen Hand fraß.",German,Sequential,Epoch 1,2,transformer_layer_2,0.873870313167572,0.12612968683242798
+8,"Als ich mich noch einmal wieder auf dem Wege nach Thornfield befand, war mir zu Mute wie der heimkehrenden Brieftaube.",German,Sequential,Epoch 1,0,embedding,0.8409924507141113,0.15900754928588867
+8,"Als ich mich noch einmal wieder auf dem Wege nach Thornfield befand, war mir zu Mute wie der heimkehrenden Brieftaube.",German,Sequential,Epoch 1,1,transformer_layer_1,0.8232318162918091,0.17676818370819092
+8,"Als ich mich noch einmal wieder auf dem Wege nach Thornfield befand, war mir zu Mute wie der heimkehrenden Brieftaube.",German,Sequential,Epoch 1,2,transformer_layer_2,0.8715478777885437,0.1284521222114563
+9,"Sie kam in der That vor die Thür der Treppe, blieb dort einige Augenblicke stehen, sah starr in das Dunkel, aber ohne daß sie den Priester da zu sehen schien, und ging vorbei.",German,Sequential,Epoch 1,0,embedding,0.7616648077964783,0.23833519220352173
+9,"Sie kam in der That vor die Thür der Treppe, blieb dort einige Augenblicke stehen, sah starr in das Dunkel, aber ohne daß sie den Priester da zu sehen schien, und ging vorbei.",German,Sequential,Epoch 1,1,transformer_layer_1,0.7756988406181335,0.22430115938186646
+9,"Sie kam in der That vor die Thür der Treppe, blieb dort einige Augenblicke stehen, sah starr in das Dunkel, aber ohne daß sie den Priester da zu sehen schien, und ging vorbei.",German,Sequential,Epoch 1,2,transformer_layer_2,0.8743193745613098,0.12568062543869019
+10,"In dem Grade, daß sie in jenen ersten Augenblicken, erfüllt von dem Bewußtsein ihrer Schuld dir gegenüber, nicht alles überlegte und nicht alles überlegen konnte.",German,Sequential,Epoch 1,0,embedding,0.7135927677154541,0.2864072322845459
+10,"In dem Grade, daß sie in jenen ersten Augenblicken, erfüllt von dem Bewußtsein ihrer Schuld dir gegenüber, nicht alles überlegte und nicht alles überlegen konnte.",German,Sequential,Epoch 1,1,transformer_layer_1,0.7474384903907776,0.2525615096092224
+10,"In dem Grade, daß sie in jenen ersten Augenblicken, erfüllt von dem Bewußtsein ihrer Schuld dir gegenüber, nicht alles überlegte und nicht alles überlegen konnte.",German,Sequential,Epoch 1,2,transformer_layer_2,0.864402711391449,0.13559728860855103
+11,"»Das ist keine Antwort, oder vielmehr eine sehr ärgerliche, weil es eine ausweichende ist, – bitte antworten Sie klar.«",German,Sequential,Epoch 1,0,embedding,0.8316022157669067,0.16839778423309326
+11,"»Das ist keine Antwort, oder vielmehr eine sehr ärgerliche, weil es eine ausweichende ist, – bitte antworten Sie klar.«",German,Sequential,Epoch 1,1,transformer_layer_1,0.8274589776992798,0.17254102230072021
+11,"»Das ist keine Antwort, oder vielmehr eine sehr ärgerliche, weil es eine ausweichende ist, – bitte antworten Sie klar.«",German,Sequential,Epoch 1,2,transformer_layer_2,0.8785683512687683,0.12143164873123169
+12,Alles das war wahrhaftig sehr schön.,German,Sequential,Epoch 1,0,embedding,0.4982910752296448,0.5017089247703552
+12,Alles das war wahrhaftig sehr schön.,German,Sequential,Epoch 1,1,transformer_layer_1,0.8380201458930969,0.16197985410690308
+12,Alles das war wahrhaftig sehr schön.,German,Sequential,Epoch 1,2,transformer_layer_2,0.894623875617981,0.10537612438201904
+13,"Du nimmst den Strich zu breit, du wirst müde werden ... Ja, ja, es heißt ganz richtig: wenn sich der Gutsherr plagt, so hat er den Segen davon!",German,Sequential,Epoch 1,0,embedding,0.7927451729774475,0.2072548270225525
+13,"Du nimmst den Strich zu breit, du wirst müde werden ... Ja, ja, es heißt ganz richtig: wenn sich der Gutsherr plagt, so hat er den Segen davon!",German,Sequential,Epoch 1,1,transformer_layer_1,0.784705638885498,0.21529436111450195
+13,"Du nimmst den Strich zu breit, du wirst müde werden ... Ja, ja, es heißt ganz richtig: wenn sich der Gutsherr plagt, so hat er den Segen davon!",German,Sequential,Epoch 1,2,transformer_layer_2,0.8842934966087341,0.11570650339126587
+14,Da sagte er: »Ich weiß es nicht.«,German,Sequential,Epoch 1,0,embedding,0.4381703734397888,0.5618296265602112
+14,Da sagte er: »Ich weiß es nicht.«,German,Sequential,Epoch 1,1,transformer_layer_1,0.7495325803756714,0.2504674196243286
+14,Da sagte er: »Ich weiß es nicht.«,German,Sequential,Epoch 1,2,transformer_layer_2,0.9080924987792969,0.09190750122070312
+15,"In Erwägung alles dessen will ich gern denjenigen loben, der Festungen anlegt, und den, der keine anlegt; tadle aber denjenigen, der sich darauf verläßt, und deswegen den Haß des Volkes nicht achtet.22",German,Sequential,Epoch 1,0,embedding,0.7101728320121765,0.2898271679878235
+15,"In Erwägung alles dessen will ich gern denjenigen loben, der Festungen anlegt, und den, der keine anlegt; tadle aber denjenigen, der sich darauf verläßt, und deswegen den Haß des Volkes nicht achtet.22",German,Sequential,Epoch 1,1,transformer_layer_1,0.7634460926055908,0.23655390739440918
+15,"In Erwägung alles dessen will ich gern denjenigen loben, der Festungen anlegt, und den, der keine anlegt; tadle aber denjenigen, der sich darauf verläßt, und deswegen den Haß des Volkes nicht achtet.22",German,Sequential,Epoch 1,2,transformer_layer_2,0.8694239258766174,0.13057607412338257
+16,"Ich wollte Sie nur ein wenig wecken, um Sie Ihrer Traurigkeit zu entreißen. Ich glaubte, Ärger sei besser für Sie als Kummer.",German,Sequential,Epoch 1,0,embedding,0.8423923850059509,0.15760761499404907
+16,"Ich wollte Sie nur ein wenig wecken, um Sie Ihrer Traurigkeit zu entreißen. Ich glaubte, Ärger sei besser für Sie als Kummer.",German,Sequential,Epoch 1,1,transformer_layer_1,0.7261260747909546,0.2738739252090454
+16,"Ich wollte Sie nur ein wenig wecken, um Sie Ihrer Traurigkeit zu entreißen. Ich glaubte, Ärger sei besser für Sie als Kummer.",German,Sequential,Epoch 1,2,transformer_layer_2,0.8522222638130188,0.1477777361869812
+17,Alle sahen meine Verlegenheit und meine Bewegung.,German,Sequential,Epoch 1,0,embedding,0.9090290069580078,0.09097099304199219
+17,Alle sahen meine Verlegenheit und meine Bewegung.,German,Sequential,Epoch 1,1,transformer_layer_1,0.8226062059402466,0.17739379405975342
+17,Alle sahen meine Verlegenheit und meine Bewegung.,German,Sequential,Epoch 1,2,transformer_layer_2,0.8850009441375732,0.11499905586242676
+18,Es ist ein bißchen kühl.«,German,Sequential,Epoch 1,0,embedding,0.28436583280563354,0.7156341671943665
+18,Es ist ein bißchen kühl.«,German,Sequential,Epoch 1,1,transformer_layer_1,0.8562171459197998,0.1437828540802002
+18,Es ist ein bißchen kühl.«,German,Sequential,Epoch 1,2,transformer_layer_2,0.9045413136482239,0.09545868635177612
+19,"»Gott sei Dank!« rief Matwei und zeigte durch diese Antwort, daß er die Bedeutung dieses Besuches ebensowohl zu würdigen wußte wie sein Herr, indem er nämlich zuversichtlich glaubte, daß Anna Arkadjewna, Stepan Arkadjewitschs Schwester, die dieser sehr liebte, eine Versöhnung zwischen Mann und Frau werde zustande bringen können.",German,Sequential,Epoch 1,0,embedding,0.6115866303443909,0.38841336965560913
+19,"»Gott sei Dank!« rief Matwei und zeigte durch diese Antwort, daß er die Bedeutung dieses Besuches ebensowohl zu würdigen wußte wie sein Herr, indem er nämlich zuversichtlich glaubte, daß Anna Arkadjewna, Stepan Arkadjewitschs Schwester, die dieser sehr liebte, eine Versöhnung zwischen Mann und Frau werde zustande bringen können.",German,Sequential,Epoch 1,1,transformer_layer_1,0.7638517618179321,0.23614823818206787
+19,"»Gott sei Dank!« rief Matwei und zeigte durch diese Antwort, daß er die Bedeutung dieses Besuches ebensowohl zu würdigen wußte wie sein Herr, indem er nämlich zuversichtlich glaubte, daß Anna Arkadjewna, Stepan Arkadjewitschs Schwester, die dieser sehr liebte, eine Versöhnung zwischen Mann und Frau werde zustande bringen können.",German,Sequential,Epoch 1,2,transformer_layer_2,0.8525718450546265,0.14742815494537354
+0,"Du bist es, die mich ruft, Kinderräuberin! Nun denn: Verflucht seist du!",German,Sequential,Final,0,embedding,0.8115432858467102,0.1884567141532898
+0,"Du bist es, die mich ruft, Kinderräuberin! Nun denn: Verflucht seist du!",German,Sequential,Final,1,transformer_layer_1,0.8487489223480225,0.15125107765197754
+0,"Du bist es, die mich ruft, Kinderräuberin! Nun denn: Verflucht seist du!",German,Sequential,Final,2,transformer_layer_2,0.9195290207862854,0.0804709792137146
+1,Der blutige Wiederschein des Ofens beleuchtete im ganzen Zimmer nur einen Wirrwarr schrecklicher Gegenstände.,German,Sequential,Final,0,embedding,0.7572567462921143,0.24274325370788574
+1,Der blutige Wiederschein des Ofens beleuchtete im ganzen Zimmer nur einen Wirrwarr schrecklicher Gegenstände.,German,Sequential,Final,1,transformer_layer_1,0.8974955081939697,0.10250449180603027
+1,Der blutige Wiederschein des Ofens beleuchtete im ganzen Zimmer nur einen Wirrwarr schrecklicher Gegenstände.,German,Sequential,Final,2,transformer_layer_2,0.9155791997909546,0.08442080020904541
+2,"»Ich muß mir die neuen Getreidewagen ansehen und feststellen, ob sie etwas taugen«, erwiderte Ljewin. »Und du, wo wirst du bleiben?«",German,Sequential,Final,0,embedding,0.4525853097438812,0.5474146902561188
+2,"»Ich muß mir die neuen Getreidewagen ansehen und feststellen, ob sie etwas taugen«, erwiderte Ljewin. »Und du, wo wirst du bleiben?«",German,Sequential,Final,1,transformer_layer_1,0.8775431513786316,0.12245684862136841
+2,"»Ich muß mir die neuen Getreidewagen ansehen und feststellen, ob sie etwas taugen«, erwiderte Ljewin. »Und du, wo wirst du bleiben?«",German,Sequential,Final,2,transformer_layer_2,0.9194924831390381,0.08050751686096191
+3,"Und dieser Zweck ist, seiner Klarheit unbeschadet, geheimnisvoll und wunderbar.",German,Sequential,Final,0,embedding,0.8645520806312561,0.1354479193687439
+3,"Und dieser Zweck ist, seiner Klarheit unbeschadet, geheimnisvoll und wunderbar.",German,Sequential,Final,1,transformer_layer_1,0.8683959245681763,0.13160407543182373
+3,"Und dieser Zweck ist, seiner Klarheit unbeschadet, geheimnisvoll und wunderbar.",German,Sequential,Final,2,transformer_layer_2,0.9184689521789551,0.08153104782104492
+4,"»Anna und ich halten auf den Fürsten Kusowlew«, erwiderte Betsy.",German,Sequential,Final,0,embedding,0.09794700890779495,0.902052991092205
+4,"»Anna und ich halten auf den Fürsten Kusowlew«, erwiderte Betsy.",German,Sequential,Final,1,transformer_layer_1,0.8322683572769165,0.1677316427230835
+4,"»Anna und ich halten auf den Fürsten Kusowlew«, erwiderte Betsy.",German,Sequential,Final,2,transformer_layer_2,0.9212901592254639,0.07870984077453613
+5,"Nun hat er daran etwas, was ihn beschäftigt und interessiert.",German,Sequential,Final,0,embedding,0.5552046298980713,0.4447953701019287
+5,"Nun hat er daran etwas, was ihn beschäftigt und interessiert.",German,Sequential,Final,1,transformer_layer_1,0.8456336259841919,0.1543663740158081
+5,"Nun hat er daran etwas, was ihn beschäftigt und interessiert.",German,Sequential,Final,2,transformer_layer_2,0.9112885594367981,0.0887114405632019
+6,"Ich will Fräulein Bürstner gewiß nicht verleumden, sie ist ein gutes, liebes Mädchen, freundlich, ordentlich, pünktlich, arbeitsam, ich schätze das alles sehr, aber eines ist wahr, sie sollte stolzer, zurückhaltender sein.",German,Sequential,Final,0,embedding,0.8471969366073608,0.15280306339263916
+6,"Ich will Fräulein Bürstner gewiß nicht verleumden, sie ist ein gutes, liebes Mädchen, freundlich, ordentlich, pünktlich, arbeitsam, ich schätze das alles sehr, aber eines ist wahr, sie sollte stolzer, zurückhaltender sein.",German,Sequential,Final,1,transformer_layer_1,0.8625566363334656,0.13744336366653442
+6,"Ich will Fräulein Bürstner gewiß nicht verleumden, sie ist ein gutes, liebes Mädchen, freundlich, ordentlich, pünktlich, arbeitsam, ich schätze das alles sehr, aber eines ist wahr, sie sollte stolzer, zurückhaltender sein.",German,Sequential,Final,2,transformer_layer_2,0.9176636338233948,0.08233636617660522
+7,"Die Esmeralda begann Brot zu zerbrocken, welches Djali zierlich aus ihrer hohlen Hand fraß.",German,Sequential,Final,0,embedding,0.7441509366035461,0.25584906339645386
+7,"Die Esmeralda begann Brot zu zerbrocken, welches Djali zierlich aus ihrer hohlen Hand fraß.",German,Sequential,Final,1,transformer_layer_1,0.8744423985481262,0.12555760145187378
+7,"Die Esmeralda begann Brot zu zerbrocken, welches Djali zierlich aus ihrer hohlen Hand fraß.",German,Sequential,Final,2,transformer_layer_2,0.9045597314834595,0.09544026851654053
+8,"Als ich mich noch einmal wieder auf dem Wege nach Thornfield befand, war mir zu Mute wie der heimkehrenden Brieftaube.",German,Sequential,Final,0,embedding,0.8326481580734253,0.1673518419265747
+8,"Als ich mich noch einmal wieder auf dem Wege nach Thornfield befand, war mir zu Mute wie der heimkehrenden Brieftaube.",German,Sequential,Final,1,transformer_layer_1,0.9154676198959351,0.08453238010406494
+8,"Als ich mich noch einmal wieder auf dem Wege nach Thornfield befand, war mir zu Mute wie der heimkehrenden Brieftaube.",German,Sequential,Final,2,transformer_layer_2,0.9325405359268188,0.06745946407318115
+9,"Sie kam in der That vor die Thür der Treppe, blieb dort einige Augenblicke stehen, sah starr in das Dunkel, aber ohne daß sie den Priester da zu sehen schien, und ging vorbei.",German,Sequential,Final,0,embedding,0.7530320882797241,0.24696791172027588
+9,"Sie kam in der That vor die Thür der Treppe, blieb dort einige Augenblicke stehen, sah starr in das Dunkel, aber ohne daß sie den Priester da zu sehen schien, und ging vorbei.",German,Sequential,Final,1,transformer_layer_1,0.8560500144958496,0.1439499855041504
+9,"Sie kam in der That vor die Thür der Treppe, blieb dort einige Augenblicke stehen, sah starr in das Dunkel, aber ohne daß sie den Priester da zu sehen schien, und ging vorbei.",German,Sequential,Final,2,transformer_layer_2,0.9117426872253418,0.0882573127746582
+10,"In dem Grade, daß sie in jenen ersten Augenblicken, erfüllt von dem Bewußtsein ihrer Schuld dir gegenüber, nicht alles überlegte und nicht alles überlegen konnte.",German,Sequential,Final,0,embedding,0.7053345441818237,0.29466545581817627
+10,"In dem Grade, daß sie in jenen ersten Augenblicken, erfüllt von dem Bewußtsein ihrer Schuld dir gegenüber, nicht alles überlegte und nicht alles überlegen konnte.",German,Sequential,Final,1,transformer_layer_1,0.8351908922195435,0.16480910778045654
+10,"In dem Grade, daß sie in jenen ersten Augenblicken, erfüllt von dem Bewußtsein ihrer Schuld dir gegenüber, nicht alles überlegte und nicht alles überlegen konnte.",German,Sequential,Final,2,transformer_layer_2,0.9053070545196533,0.09469294548034668
+11,"»Das ist keine Antwort, oder vielmehr eine sehr ärgerliche, weil es eine ausweichende ist, – bitte antworten Sie klar.«",German,Sequential,Final,0,embedding,0.8246253132820129,0.17537468671798706
+11,"»Das ist keine Antwort, oder vielmehr eine sehr ärgerliche, weil es eine ausweichende ist, – bitte antworten Sie klar.«",German,Sequential,Final,1,transformer_layer_1,0.8956124782562256,0.10438752174377441
+11,"»Das ist keine Antwort, oder vielmehr eine sehr ärgerliche, weil es eine ausweichende ist, – bitte antworten Sie klar.«",German,Sequential,Final,2,transformer_layer_2,0.9359094500541687,0.0640905499458313
+12,Alles das war wahrhaftig sehr schön.,German,Sequential,Final,0,embedding,0.4867226779460907,0.5132773220539093
+12,Alles das war wahrhaftig sehr schön.,German,Sequential,Final,1,transformer_layer_1,0.8372796177864075,0.16272038221359253
+12,Alles das war wahrhaftig sehr schön.,German,Sequential,Final,2,transformer_layer_2,0.8974229097366333,0.1025770902633667
+13,"Du nimmst den Strich zu breit, du wirst müde werden ... Ja, ja, es heißt ganz richtig: wenn sich der Gutsherr plagt, so hat er den Segen davon!",German,Sequential,Final,0,embedding,0.7868122458457947,0.21318775415420532
+13,"Du nimmst den Strich zu breit, du wirst müde werden ... Ja, ja, es heißt ganz richtig: wenn sich der Gutsherr plagt, so hat er den Segen davon!",German,Sequential,Final,1,transformer_layer_1,0.830036461353302,0.169963538646698
+13,"Du nimmst den Strich zu breit, du wirst müde werden ... Ja, ja, es heißt ganz richtig: wenn sich der Gutsherr plagt, so hat er den Segen davon!",German,Sequential,Final,2,transformer_layer_2,0.9143040776252747,0.08569592237472534
+14,Da sagte er: »Ich weiß es nicht.«,German,Sequential,Final,0,embedding,0.4347964823246002,0.5652035176753998
+14,Da sagte er: »Ich weiß es nicht.«,German,Sequential,Final,1,transformer_layer_1,0.7495371103286743,0.2504628896713257
+14,Da sagte er: »Ich weiß es nicht.«,German,Sequential,Final,2,transformer_layer_2,0.9155757427215576,0.08442425727844238
+15,"In Erwägung alles dessen will ich gern denjenigen loben, der Festungen anlegt, und den, der keine anlegt; tadle aber denjenigen, der sich darauf verläßt, und deswegen den Haß des Volkes nicht achtet.22",German,Sequential,Final,0,embedding,0.7021937370300293,0.2978062629699707
+15,"In Erwägung alles dessen will ich gern denjenigen loben, der Festungen anlegt, und den, der keine anlegt; tadle aber denjenigen, der sich darauf verläßt, und deswegen den Haß des Volkes nicht achtet.22",German,Sequential,Final,1,transformer_layer_1,0.846845269203186,0.15315473079681396
+15,"In Erwägung alles dessen will ich gern denjenigen loben, der Festungen anlegt, und den, der keine anlegt; tadle aber denjenigen, der sich darauf verläßt, und deswegen den Haß des Volkes nicht achtet.22",German,Sequential,Final,2,transformer_layer_2,0.9148805141448975,0.08511948585510254
+16,"Ich wollte Sie nur ein wenig wecken, um Sie Ihrer Traurigkeit zu entreißen. Ich glaubte, Ärger sei besser für Sie als Kummer.",German,Sequential,Final,0,embedding,0.831892192363739,0.168107807636261
+16,"Ich wollte Sie nur ein wenig wecken, um Sie Ihrer Traurigkeit zu entreißen. Ich glaubte, Ärger sei besser für Sie als Kummer.",German,Sequential,Final,1,transformer_layer_1,0.8517287969589233,0.14827120304107666
+16,"Ich wollte Sie nur ein wenig wecken, um Sie Ihrer Traurigkeit zu entreißen. Ich glaubte, Ärger sei besser für Sie als Kummer.",German,Sequential,Final,2,transformer_layer_2,0.9030462503433228,0.09695374965667725
+17,Alle sahen meine Verlegenheit und meine Bewegung.,German,Sequential,Final,0,embedding,0.8928743600845337,0.10712563991546631
+17,Alle sahen meine Verlegenheit und meine Bewegung.,German,Sequential,Final,1,transformer_layer_1,0.805878221988678,0.19412177801132202
+17,Alle sahen meine Verlegenheit und meine Bewegung.,German,Sequential,Final,2,transformer_layer_2,0.9088538289070129,0.09114617109298706
+18,Es ist ein bißchen kühl.«,German,Sequential,Final,0,embedding,0.2758893370628357,0.7241106629371643
+18,Es ist ein bißchen kühl.«,German,Sequential,Final,1,transformer_layer_1,0.8060091733932495,0.1939908266067505
+18,Es ist ein bißchen kühl.«,German,Sequential,Final,2,transformer_layer_2,0.9272458553314209,0.0727541446685791
+19,"»Gott sei Dank!« rief Matwei und zeigte durch diese Antwort, daß er die Bedeutung dieses Besuches ebensowohl zu würdigen wußte wie sein Herr, indem er nämlich zuversichtlich glaubte, daß Anna Arkadjewna, Stepan Arkadjewitschs Schwester, die dieser sehr liebte, eine Versöhnung zwischen Mann und Frau werde zustande bringen können.",German,Sequential,Final,0,embedding,0.6028245091438293,0.39717549085617065
+19,"»Gott sei Dank!« rief Matwei und zeigte durch diese Antwort, daß er die Bedeutung dieses Besuches ebensowohl zu würdigen wußte wie sein Herr, indem er nämlich zuversichtlich glaubte, daß Anna Arkadjewna, Stepan Arkadjewitschs Schwester, die dieser sehr liebte, eine Versöhnung zwischen Mann und Frau werde zustande bringen können.",German,Sequential,Final,1,transformer_layer_1,0.8327978253364563,0.1672021746635437
+19,"»Gott sei Dank!« rief Matwei und zeigte durch diese Antwort, daß er die Bedeutung dieses Besuches ebensowohl zu würdigen wußte wie sein Herr, indem er nämlich zuversichtlich glaubte, daß Anna Arkadjewna, Stepan Arkadjewitschs Schwester, die dieser sehr liebte, eine Versöhnung zwischen Mann und Frau werde zustande bringen können.",German,Sequential,Final,2,transformer_layer_2,0.89476078748703,0.10523921251296997
+0,"Du bist es, die mich ruft, Kinderräuberin! Nun denn: Verflucht seist du!",German,EWC,Epoch 1,0,embedding,0.8173131346702576,0.18268686532974243
+0,"Du bist es, die mich ruft, Kinderräuberin! Nun denn: Verflucht seist du!",German,EWC,Epoch 1,1,transformer_layer_1,0.7733835577964783,0.22661644220352173
+0,"Du bist es, die mich ruft, Kinderräuberin! Nun denn: Verflucht seist du!",German,EWC,Epoch 1,2,transformer_layer_2,0.8853038549423218,0.11469614505767822
+1,Der blutige Wiederschein des Ofens beleuchtete im ganzen Zimmer nur einen Wirrwarr schrecklicher Gegenstände.,German,EWC,Epoch 1,0,embedding,0.7695783972740173,0.23042160272598267
+1,Der blutige Wiederschein des Ofens beleuchtete im ganzen Zimmer nur einen Wirrwarr schrecklicher Gegenstände.,German,EWC,Epoch 1,1,transformer_layer_1,0.8513460755348206,0.14865392446517944
+1,Der blutige Wiederschein des Ofens beleuchtete im ganzen Zimmer nur einen Wirrwarr schrecklicher Gegenstände.,German,EWC,Epoch 1,2,transformer_layer_2,0.8787546157836914,0.1212453842163086
+2,"»Ich muß mir die neuen Getreidewagen ansehen und feststellen, ob sie etwas taugen«, erwiderte Ljewin. »Und du, wo wirst du bleiben?«",German,EWC,Epoch 1,0,embedding,0.467338889837265,0.532661110162735
+2,"»Ich muß mir die neuen Getreidewagen ansehen und feststellen, ob sie etwas taugen«, erwiderte Ljewin. »Und du, wo wirst du bleiben?«",German,EWC,Epoch 1,1,transformer_layer_1,0.7692306637763977,0.2307693362236023
+2,"»Ich muß mir die neuen Getreidewagen ansehen und feststellen, ob sie etwas taugen«, erwiderte Ljewin. »Und du, wo wirst du bleiben?«",German,EWC,Epoch 1,2,transformer_layer_2,0.8684592843055725,0.1315407156944275
+3,"Und dieser Zweck ist, seiner Klarheit unbeschadet, geheimnisvoll und wunderbar.",German,EWC,Epoch 1,0,embedding,0.8747151494026184,0.1252848505973816
+3,"Und dieser Zweck ist, seiner Klarheit unbeschadet, geheimnisvoll und wunderbar.",German,EWC,Epoch 1,1,transformer_layer_1,0.7428364157676697,0.2571635842323303
+3,"Und dieser Zweck ist, seiner Klarheit unbeschadet, geheimnisvoll und wunderbar.",German,EWC,Epoch 1,2,transformer_layer_2,0.8581965565681458,0.14180344343185425
+4,"»Anna und ich halten auf den Fürsten Kusowlew«, erwiderte Betsy.",German,EWC,Epoch 1,0,embedding,0.12936529517173767,0.8706347048282623
+4,"»Anna und ich halten auf den Fürsten Kusowlew«, erwiderte Betsy.",German,EWC,Epoch 1,1,transformer_layer_1,0.7933626174926758,0.20663738250732422
+4,"»Anna und ich halten auf den Fürsten Kusowlew«, erwiderte Betsy.",German,EWC,Epoch 1,2,transformer_layer_2,0.8676134943962097,0.13238650560379028
+5,"Nun hat er daran etwas, was ihn beschäftigt und interessiert.",German,EWC,Epoch 1,0,embedding,0.5702081918716431,0.42979180812835693
+5,"Nun hat er daran etwas, was ihn beschäftigt und interessiert.",German,EWC,Epoch 1,1,transformer_layer_1,0.805065929889679,0.19493407011032104
+5,"Nun hat er daran etwas, was ihn beschäftigt und interessiert.",German,EWC,Epoch 1,2,transformer_layer_2,0.871765673160553,0.12823432683944702
+6,"Ich will Fräulein Bürstner gewiß nicht verleumden, sie ist ein gutes, liebes Mädchen, freundlich, ordentlich, pünktlich, arbeitsam, ich schätze das alles sehr, aber eines ist wahr, sie sollte stolzer, zurückhaltender sein.",German,EWC,Epoch 1,0,embedding,0.8521283268928528,0.14787167310714722
+6,"Ich will Fräulein Bürstner gewiß nicht verleumden, sie ist ein gutes, liebes Mädchen, freundlich, ordentlich, pünktlich, arbeitsam, ich schätze das alles sehr, aber eines ist wahr, sie sollte stolzer, zurückhaltender sein.",German,EWC,Epoch 1,1,transformer_layer_1,0.7617161273956299,0.23828387260437012
+6,"Ich will Fräulein Bürstner gewiß nicht verleumden, sie ist ein gutes, liebes Mädchen, freundlich, ordentlich, pünktlich, arbeitsam, ich schätze das alles sehr, aber eines ist wahr, sie sollte stolzer, zurückhaltender sein.",German,EWC,Epoch 1,2,transformer_layer_2,0.8765596747398376,0.12344032526016235
+7,"Die Esmeralda begann Brot zu zerbrocken, welches Djali zierlich aus ihrer hohlen Hand fraß.",German,EWC,Epoch 1,0,embedding,0.760504961013794,0.23949503898620605
+7,"Die Esmeralda begann Brot zu zerbrocken, welches Djali zierlich aus ihrer hohlen Hand fraß.",German,EWC,Epoch 1,1,transformer_layer_1,0.8426580429077148,0.15734195709228516
+7,"Die Esmeralda begann Brot zu zerbrocken, welches Djali zierlich aus ihrer hohlen Hand fraß.",German,EWC,Epoch 1,2,transformer_layer_2,0.8735586404800415,0.1264413595199585
+8,"Als ich mich noch einmal wieder auf dem Wege nach Thornfield befand, war mir zu Mute wie der heimkehrenden Brieftaube.",German,EWC,Epoch 1,0,embedding,0.841081976890564,0.15891802310943604
+8,"Als ich mich noch einmal wieder auf dem Wege nach Thornfield befand, war mir zu Mute wie der heimkehrenden Brieftaube.",German,EWC,Epoch 1,1,transformer_layer_1,0.8227306604385376,0.1772693395614624
+8,"Als ich mich noch einmal wieder auf dem Wege nach Thornfield befand, war mir zu Mute wie der heimkehrenden Brieftaube.",German,EWC,Epoch 1,2,transformer_layer_2,0.8708908557891846,0.12910914421081543
+9,"Sie kam in der That vor die Thür der Treppe, blieb dort einige Augenblicke stehen, sah starr in das Dunkel, aber ohne daß sie den Priester da zu sehen schien, und ging vorbei.",German,EWC,Epoch 1,0,embedding,0.761833667755127,0.23816633224487305
+9,"Sie kam in der That vor die Thür der Treppe, blieb dort einige Augenblicke stehen, sah starr in das Dunkel, aber ohne daß sie den Priester da zu sehen schien, und ging vorbei.",German,EWC,Epoch 1,1,transformer_layer_1,0.7750101089477539,0.2249898910522461
+9,"Sie kam in der That vor die Thür der Treppe, blieb dort einige Augenblicke stehen, sah starr in das Dunkel, aber ohne daß sie den Priester da zu sehen schien, und ging vorbei.",German,EWC,Epoch 1,2,transformer_layer_2,0.8738868832588196,0.12611311674118042
+10,"In dem Grade, daß sie in jenen ersten Augenblicken, erfüllt von dem Bewußtsein ihrer Schuld dir gegenüber, nicht alles überlegte und nicht alles überlegen konnte.",German,EWC,Epoch 1,0,embedding,0.7137161493301392,0.28628385066986084
+10,"In dem Grade, daß sie in jenen ersten Augenblicken, erfüllt von dem Bewußtsein ihrer Schuld dir gegenüber, nicht alles überlegte und nicht alles überlegen konnte.",German,EWC,Epoch 1,1,transformer_layer_1,0.7466892600059509,0.2533107399940491
+10,"In dem Grade, daß sie in jenen ersten Augenblicken, erfüllt von dem Bewußtsein ihrer Schuld dir gegenüber, nicht alles überlegte und nicht alles überlegen konnte.",German,EWC,Epoch 1,2,transformer_layer_2,0.8638639450073242,0.13613605499267578
+11,"»Das ist keine Antwort, oder vielmehr eine sehr ärgerliche, weil es eine ausweichende ist, – bitte antworten Sie klar.«",German,EWC,Epoch 1,0,embedding,0.8317618370056152,0.16823816299438477
+11,"»Das ist keine Antwort, oder vielmehr eine sehr ärgerliche, weil es eine ausweichende ist, – bitte antworten Sie klar.«",German,EWC,Epoch 1,1,transformer_layer_1,0.8270094990730286,0.17299050092697144
+11,"»Das ist keine Antwort, oder vielmehr eine sehr ärgerliche, weil es eine ausweichende ist, – bitte antworten Sie klar.«",German,EWC,Epoch 1,2,transformer_layer_2,0.8781032562255859,0.12189674377441406
+12,Alles das war wahrhaftig sehr schön.,German,EWC,Epoch 1,0,embedding,0.4980999827384949,0.5019000172615051
+12,Alles das war wahrhaftig sehr schön.,German,EWC,Epoch 1,1,transformer_layer_1,0.8381528258323669,0.16184717416763306
+12,Alles das war wahrhaftig sehr schön.,German,EWC,Epoch 1,2,transformer_layer_2,0.8942680358886719,0.10573196411132812
+13,"Du nimmst den Strich zu breit, du wirst müde werden ... Ja, ja, es heißt ganz richtig: wenn sich der Gutsherr plagt, so hat er den Segen davon!",German,EWC,Epoch 1,0,embedding,0.7928985357284546,0.2071014642715454
+13,"Du nimmst den Strich zu breit, du wirst müde werden ... Ja, ja, es heißt ganz richtig: wenn sich der Gutsherr plagt, so hat er den Segen davon!",German,EWC,Epoch 1,1,transformer_layer_1,0.7841694951057434,0.2158305048942566
+13,"Du nimmst den Strich zu breit, du wirst müde werden ... Ja, ja, es heißt ganz richtig: wenn sich der Gutsherr plagt, so hat er den Segen davon!",German,EWC,Epoch 1,2,transformer_layer_2,0.8838746547698975,0.11612534523010254
+14,Da sagte er: »Ich weiß es nicht.«,German,EWC,Epoch 1,0,embedding,0.4381488263607025,0.5618511736392975
+14,Da sagte er: »Ich weiß es nicht.«,German,EWC,Epoch 1,1,transformer_layer_1,0.7493444681167603,0.25065553188323975
+14,Da sagte er: »Ich weiß es nicht.«,German,EWC,Epoch 1,2,transformer_layer_2,0.9078449010848999,0.0921550989151001
+15,"In Erwägung alles dessen will ich gern denjenigen loben, der Festungen anlegt, und den, der keine anlegt; tadle aber denjenigen, der sich darauf verläßt, und deswegen den Haß des Volkes nicht achtet.22",German,EWC,Epoch 1,0,embedding,0.7102580070495605,0.28974199295043945
+15,"In Erwägung alles dessen will ich gern denjenigen loben, der Festungen anlegt, und den, der keine anlegt; tadle aber denjenigen, der sich darauf verläßt, und deswegen den Haß des Volkes nicht achtet.22",German,EWC,Epoch 1,1,transformer_layer_1,0.76325923204422,0.23674076795578003
+15,"In Erwägung alles dessen will ich gern denjenigen loben, der Festungen anlegt, und den, der keine anlegt; tadle aber denjenigen, der sich darauf verläßt, und deswegen den Haß des Volkes nicht achtet.22",German,EWC,Epoch 1,2,transformer_layer_2,0.8689642548561096,0.13103574514389038
+16,"Ich wollte Sie nur ein wenig wecken, um Sie Ihrer Traurigkeit zu entreißen. Ich glaubte, Ärger sei besser für Sie als Kummer.",German,EWC,Epoch 1,0,embedding,0.8425009846687317,0.1574990153312683
+16,"Ich wollte Sie nur ein wenig wecken, um Sie Ihrer Traurigkeit zu entreißen. Ich glaubte, Ärger sei besser für Sie als Kummer.",German,EWC,Epoch 1,1,transformer_layer_1,0.7250509858131409,0.27494901418685913
+16,"Ich wollte Sie nur ein wenig wecken, um Sie Ihrer Traurigkeit zu entreißen. Ich glaubte, Ärger sei besser für Sie als Kummer.",German,EWC,Epoch 1,2,transformer_layer_2,0.8517090678215027,0.14829093217849731
+17,Alle sahen meine Verlegenheit und meine Bewegung.,German,EWC,Epoch 1,0,embedding,0.9091694951057434,0.09083050489425659
+17,Alle sahen meine Verlegenheit und meine Bewegung.,German,EWC,Epoch 1,1,transformer_layer_1,0.8227437138557434,0.1772562861442566
+17,Alle sahen meine Verlegenheit und meine Bewegung.,German,EWC,Epoch 1,2,transformer_layer_2,0.8846762776374817,0.11532372236251831
+18,Es ist ein bißchen kühl.«,German,EWC,Epoch 1,0,embedding,0.2843087315559387,0.7156912684440613
+18,Es ist ein bißchen kühl.«,German,EWC,Epoch 1,1,transformer_layer_1,0.8561444878578186,0.1438555121421814
+18,Es ist ein bißchen kühl.«,German,EWC,Epoch 1,2,transformer_layer_2,0.9039874076843262,0.09601259231567383
+19,"»Gott sei Dank!« rief Matwei und zeigte durch diese Antwort, daß er die Bedeutung dieses Besuches ebensowohl zu würdigen wußte wie sein Herr, indem er nämlich zuversichtlich glaubte, daß Anna Arkadjewna, Stepan Arkadjewitschs Schwester, die dieser sehr liebte, eine Versöhnung zwischen Mann und Frau werde zustande bringen können.",German,EWC,Epoch 1,0,embedding,0.6116960048675537,0.3883039951324463
+19,"»Gott sei Dank!« rief Matwei und zeigte durch diese Antwort, daß er die Bedeutung dieses Besuches ebensowohl zu würdigen wußte wie sein Herr, indem er nämlich zuversichtlich glaubte, daß Anna Arkadjewna, Stepan Arkadjewitschs Schwester, die dieser sehr liebte, eine Versöhnung zwischen Mann und Frau werde zustande bringen können.",German,EWC,Epoch 1,1,transformer_layer_1,0.7631590962409973,0.23684090375900269
+19,"»Gott sei Dank!« rief Matwei und zeigte durch diese Antwort, daß er die Bedeutung dieses Besuches ebensowohl zu würdigen wußte wie sein Herr, indem er nämlich zuversichtlich glaubte, daß Anna Arkadjewna, Stepan Arkadjewitschs Schwester, die dieser sehr liebte, eine Versöhnung zwischen Mann und Frau werde zustande bringen können.",German,EWC,Epoch 1,2,transformer_layer_2,0.8520320653915405,0.14796793460845947
+0,"Du bist es, die mich ruft, Kinderräuberin! Nun denn: Verflucht seist du!",German,EWC,Final,0,embedding,0.8118752837181091,0.18812471628189087
+0,"Du bist es, die mich ruft, Kinderräuberin! Nun denn: Verflucht seist du!",German,EWC,Final,1,transformer_layer_1,0.8490501642227173,0.15094983577728271
+0,"Du bist es, die mich ruft, Kinderräuberin! Nun denn: Verflucht seist du!",German,EWC,Final,2,transformer_layer_2,0.9194279313087463,0.08057206869125366
+1,Der blutige Wiederschein des Ofens beleuchtete im ganzen Zimmer nur einen Wirrwarr schrecklicher Gegenstände.,German,EWC,Final,0,embedding,0.7574710845947266,0.24252891540527344
+1,Der blutige Wiederschein des Ofens beleuchtete im ganzen Zimmer nur einen Wirrwarr schrecklicher Gegenstände.,German,EWC,Final,1,transformer_layer_1,0.8975281715393066,0.10247182846069336
+1,Der blutige Wiederschein des Ofens beleuchtete im ganzen Zimmer nur einen Wirrwarr schrecklicher Gegenstände.,German,EWC,Final,2,transformer_layer_2,0.9156428575515747,0.08435714244842529
+2,"»Ich muß mir die neuen Getreidewagen ansehen und feststellen, ob sie etwas taugen«, erwiderte Ljewin. »Und du, wo wirst du bleiben?«",German,EWC,Final,0,embedding,0.45274871587753296,0.547251284122467
+2,"»Ich muß mir die neuen Getreidewagen ansehen und feststellen, ob sie etwas taugen«, erwiderte Ljewin. »Und du, wo wirst du bleiben?«",German,EWC,Final,1,transformer_layer_1,0.8779432773590088,0.12205672264099121
+2,"»Ich muß mir die neuen Getreidewagen ansehen und feststellen, ob sie etwas taugen«, erwiderte Ljewin. »Und du, wo wirst du bleiben?«",German,EWC,Final,2,transformer_layer_2,0.9193868637084961,0.0806131362915039
+3,"Und dieser Zweck ist, seiner Klarheit unbeschadet, geheimnisvoll und wunderbar.",German,EWC,Final,0,embedding,0.8647803068161011,0.13521969318389893
+3,"Und dieser Zweck ist, seiner Klarheit unbeschadet, geheimnisvoll und wunderbar.",German,EWC,Final,1,transformer_layer_1,0.8686758875846863,0.13132411241531372
+3,"Und dieser Zweck ist, seiner Klarheit unbeschadet, geheimnisvoll und wunderbar.",German,EWC,Final,2,transformer_layer_2,0.9185885190963745,0.08141148090362549
+4,"»Anna und ich halten auf den Fürsten Kusowlew«, erwiderte Betsy.",German,EWC,Final,0,embedding,0.09769866615533829,0.9023013338446617
+4,"»Anna und ich halten auf den Fürsten Kusowlew«, erwiderte Betsy.",German,EWC,Final,1,transformer_layer_1,0.832919180393219,0.167080819606781
+4,"»Anna und ich halten auf den Fürsten Kusowlew«, erwiderte Betsy.",German,EWC,Final,2,transformer_layer_2,0.9211946129798889,0.07880538702011108
+5,"Nun hat er daran etwas, was ihn beschäftigt und interessiert.",German,EWC,Final,0,embedding,0.5553093552589417,0.44469064474105835
+5,"Nun hat er daran etwas, was ihn beschäftigt und interessiert.",German,EWC,Final,1,transformer_layer_1,0.845501720905304,0.15449827909469604
+5,"Nun hat er daran etwas, was ihn beschäftigt und interessiert.",German,EWC,Final,2,transformer_layer_2,0.9112138748168945,0.08878612518310547
+6,"Ich will Fräulein Bürstner gewiß nicht verleumden, sie ist ein gutes, liebes Mädchen, freundlich, ordentlich, pünktlich, arbeitsam, ich schätze das alles sehr, aber eines ist wahr, sie sollte stolzer, zurückhaltender sein.",German,EWC,Final,0,embedding,0.8473889231681824,0.15261107683181763
+6,"Ich will Fräulein Bürstner gewiß nicht verleumden, sie ist ein gutes, liebes Mädchen, freundlich, ordentlich, pünktlich, arbeitsam, ich schätze das alles sehr, aber eines ist wahr, sie sollte stolzer, zurückhaltender sein.",German,EWC,Final,1,transformer_layer_1,0.8627316355705261,0.13726836442947388
+6,"Ich will Fräulein Bürstner gewiß nicht verleumden, sie ist ein gutes, liebes Mädchen, freundlich, ordentlich, pünktlich, arbeitsam, ich schätze das alles sehr, aber eines ist wahr, sie sollte stolzer, zurückhaltender sein.",German,EWC,Final,2,transformer_layer_2,0.9174368381500244,0.08256316184997559
+7,"Die Esmeralda begann Brot zu zerbrocken, welches Djali zierlich aus ihrer hohlen Hand fraß.",German,EWC,Final,0,embedding,0.7445701956748962,0.25542980432510376
+7,"Die Esmeralda begann Brot zu zerbrocken, welches Djali zierlich aus ihrer hohlen Hand fraß.",German,EWC,Final,1,transformer_layer_1,0.8746968507766724,0.12530314922332764
+7,"Die Esmeralda begann Brot zu zerbrocken, welches Djali zierlich aus ihrer hohlen Hand fraß.",German,EWC,Final,2,transformer_layer_2,0.9044338464736938,0.09556615352630615
+8,"Als ich mich noch einmal wieder auf dem Wege nach Thornfield befand, war mir zu Mute wie der heimkehrenden Brieftaube.",German,EWC,Final,0,embedding,0.832817792892456,0.16718220710754395
+8,"Als ich mich noch einmal wieder auf dem Wege nach Thornfield befand, war mir zu Mute wie der heimkehrenden Brieftaube.",German,EWC,Final,1,transformer_layer_1,0.9155327677726746,0.08446723222732544
+8,"Als ich mich noch einmal wieder auf dem Wege nach Thornfield befand, war mir zu Mute wie der heimkehrenden Brieftaube.",German,EWC,Final,2,transformer_layer_2,0.9323925971984863,0.06760740280151367
+9,"Sie kam in der That vor die Thür der Treppe, blieb dort einige Augenblicke stehen, sah starr in das Dunkel, aber ohne daß sie den Priester da zu sehen schien, und ging vorbei.",German,EWC,Final,0,embedding,0.7533125281333923,0.24668747186660767
+9,"Sie kam in der That vor die Thür der Treppe, blieb dort einige Augenblicke stehen, sah starr in das Dunkel, aber ohne daß sie den Priester da zu sehen schien, und ging vorbei.",German,EWC,Final,1,transformer_layer_1,0.8561296463012695,0.14387035369873047
+9,"Sie kam in der That vor die Thür der Treppe, blieb dort einige Augenblicke stehen, sah starr in das Dunkel, aber ohne daß sie den Priester da zu sehen schien, und ging vorbei.",German,EWC,Final,2,transformer_layer_2,0.9115233421325684,0.08847665786743164
+10,"In dem Grade, daß sie in jenen ersten Augenblicken, erfüllt von dem Bewußtsein ihrer Schuld dir gegenüber, nicht alles überlegte und nicht alles überlegen konnte.",German,EWC,Final,0,embedding,0.7055866122245789,0.29441338777542114
+10,"In dem Grade, daß sie in jenen ersten Augenblicken, erfüllt von dem Bewußtsein ihrer Schuld dir gegenüber, nicht alles überlegte und nicht alles überlegen konnte.",German,EWC,Final,1,transformer_layer_1,0.8353670239448547,0.16463297605514526
+10,"In dem Grade, daß sie in jenen ersten Augenblicken, erfüllt von dem Bewußtsein ihrer Schuld dir gegenüber, nicht alles überlegte und nicht alles überlegen konnte.",German,EWC,Final,2,transformer_layer_2,0.9050651788711548,0.09493482112884521
+11,"»Das ist keine Antwort, oder vielmehr eine sehr ärgerliche, weil es eine ausweichende ist, – bitte antworten Sie klar.«",German,EWC,Final,0,embedding,0.8248645067214966,0.17513549327850342
+11,"»Das ist keine Antwort, oder vielmehr eine sehr ärgerliche, weil es eine ausweichende ist, – bitte antworten Sie klar.«",German,EWC,Final,1,transformer_layer_1,0.8959015011787415,0.10409849882125854
+11,"»Das ist keine Antwort, oder vielmehr eine sehr ärgerliche, weil es eine ausweichende ist, – bitte antworten Sie klar.«",German,EWC,Final,2,transformer_layer_2,0.9357047080993652,0.06429529190063477
+12,Alles das war wahrhaftig sehr schön.,German,EWC,Final,0,embedding,0.48649248480796814,0.5135075151920319
+12,Alles das war wahrhaftig sehr schön.,German,EWC,Final,1,transformer_layer_1,0.8373409509658813,0.16265904903411865
+12,Alles das war wahrhaftig sehr schön.,German,EWC,Final,2,transformer_layer_2,0.8975623846054077,0.10243761539459229
+13,"Du nimmst den Strich zu breit, du wirst müde werden ... Ja, ja, es heißt ganz richtig: wenn sich der Gutsherr plagt, so hat er den Segen davon!",German,EWC,Final,0,embedding,0.7870619297027588,0.2129380702972412
+13,"Du nimmst den Strich zu breit, du wirst müde werden ... Ja, ja, es heißt ganz richtig: wenn sich der Gutsherr plagt, so hat er den Segen davon!",German,EWC,Final,1,transformer_layer_1,0.8300701379776001,0.1699298620223999
+13,"Du nimmst den Strich zu breit, du wirst müde werden ... Ja, ja, es heißt ganz richtig: wenn sich der Gutsherr plagt, so hat er den Segen davon!",German,EWC,Final,2,transformer_layer_2,0.9140258431434631,0.08597415685653687
+14,Da sagte er: »Ich weiß es nicht.«,German,EWC,Final,0,embedding,0.43471866846084595,0.565281331539154
+14,Da sagte er: »Ich weiß es nicht.«,German,EWC,Final,1,transformer_layer_1,0.7504642009735107,0.24953579902648926
+14,Da sagte er: »Ich weiß es nicht.«,German,EWC,Final,2,transformer_layer_2,0.9155656099319458,0.0844343900680542
+15,"In Erwägung alles dessen will ich gern denjenigen loben, der Festungen anlegt, und den, der keine anlegt; tadle aber denjenigen, der sich darauf verläßt, und deswegen den Haß des Volkes nicht achtet.22",German,EWC,Final,0,embedding,0.7023626565933228,0.29763734340667725
+15,"In Erwägung alles dessen will ich gern denjenigen loben, der Festungen anlegt, und den, der keine anlegt; tadle aber denjenigen, der sich darauf verläßt, und deswegen den Haß des Volkes nicht achtet.22",German,EWC,Final,1,transformer_layer_1,0.8472254276275635,0.15277457237243652
+15,"In Erwägung alles dessen will ich gern denjenigen loben, der Festungen anlegt, und den, der keine anlegt; tadle aber denjenigen, der sich darauf verläßt, und deswegen den Haß des Volkes nicht achtet.22",German,EWC,Final,2,transformer_layer_2,0.9147818088531494,0.08521819114685059
+16,"Ich wollte Sie nur ein wenig wecken, um Sie Ihrer Traurigkeit zu entreißen. Ich glaubte, Ärger sei besser für Sie als Kummer.",German,EWC,Final,0,embedding,0.8320861458778381,0.16791385412216187
+16,"Ich wollte Sie nur ein wenig wecken, um Sie Ihrer Traurigkeit zu entreißen. Ich glaubte, Ärger sei besser für Sie als Kummer.",German,EWC,Final,1,transformer_layer_1,0.8516115546226501,0.14838844537734985
+16,"Ich wollte Sie nur ein wenig wecken, um Sie Ihrer Traurigkeit zu entreißen. Ich glaubte, Ärger sei besser für Sie als Kummer.",German,EWC,Final,2,transformer_layer_2,0.9028325080871582,0.0971674919128418
+17,Alle sahen meine Verlegenheit und meine Bewegung.,German,EWC,Final,0,embedding,0.8932933807373047,0.10670661926269531
+17,Alle sahen meine Verlegenheit und meine Bewegung.,German,EWC,Final,1,transformer_layer_1,0.8065880537033081,0.1934119462966919
+17,Alle sahen meine Verlegenheit und meine Bewegung.,German,EWC,Final,2,transformer_layer_2,0.9090778827667236,0.09092211723327637
+18,Es ist ein bißchen kühl.«,German,EWC,Final,0,embedding,0.2758859694004059,0.7241140305995941
+18,Es ist ein bißchen kühl.«,German,EWC,Final,1,transformer_layer_1,0.8067662715911865,0.19323372840881348
+18,Es ist ein bißchen kühl.«,German,EWC,Final,2,transformer_layer_2,0.9271631240844727,0.07283687591552734
+19,"»Gott sei Dank!« rief Matwei und zeigte durch diese Antwort, daß er die Bedeutung dieses Besuches ebensowohl zu würdigen wußte wie sein Herr, indem er nämlich zuversichtlich glaubte, daß Anna Arkadjewna, Stepan Arkadjewitschs Schwester, die dieser sehr liebte, eine Versöhnung zwischen Mann und Frau werde zustande bringen können.",German,EWC,Final,0,embedding,0.6029847264289856,0.3970152735710144
+19,"»Gott sei Dank!« rief Matwei und zeigte durch diese Antwort, daß er die Bedeutung dieses Besuches ebensowohl zu würdigen wußte wie sein Herr, indem er nämlich zuversichtlich glaubte, daß Anna Arkadjewna, Stepan Arkadjewitschs Schwester, die dieser sehr liebte, eine Versöhnung zwischen Mann und Frau werde zustande bringen können.",German,EWC,Final,1,transformer_layer_1,0.8327627778053284,0.16723722219467163
+19,"»Gott sei Dank!« rief Matwei und zeigte durch diese Antwort, daß er die Bedeutung dieses Besuches ebensowohl zu würdigen wußte wie sein Herr, indem er nämlich zuversichtlich glaubte, daß Anna Arkadjewna, Stepan Arkadjewitschs Schwester, die dieser sehr liebte, eine Versöhnung zwischen Mann und Frau werde zustande bringen können.",German,EWC,Final,2,transformer_layer_2,0.8945019841194153,0.10549801588058472
+0,"Se on niin laaja, niin autio, niin salaperäinen.""",Finnish,Sequential,Epoch 1,0,embedding,0.9062855243682861,0.09371447563171387
+0,"Se on niin laaja, niin autio, niin salaperäinen.""",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7602250576019287,0.2397749423980713
+0,"Se on niin laaja, niin autio, niin salaperäinen.""",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.684940755367279,0.31505924463272095
+1,"""Ei, arvoisain esi-isäimme asuntoja.",Finnish,Sequential,Epoch 1,0,embedding,0.8918945789337158,0.10810542106628418
+1,"""Ei, arvoisain esi-isäimme asuntoja.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8439912796020508,0.15600872039794922
+1,"""Ei, arvoisain esi-isäimme asuntoja.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.726231038570404,0.27376896142959595
+2,Varovasti hiivimme eteenpäin koetellen joka lautaa ennenkuin uskalsimme siirtää sille koko painomme.,Finnish,Sequential,Epoch 1,0,embedding,0.5378530621528625,0.46214693784713745
+2,Varovasti hiivimme eteenpäin koetellen joka lautaa ennenkuin uskalsimme siirtää sille koko painomme.,Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8427854180335999,0.15721458196640015
+2,Varovasti hiivimme eteenpäin koetellen joka lautaa ennenkuin uskalsimme siirtää sille koko painomme.,Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.722232460975647,0.277767539024353
+3,"Emme voineet löytää merkkiäkään miehestä, jota etsimme.",Finnish,Sequential,Epoch 1,0,embedding,0.07587466388940811,0.9241253361105919
+3,"Emme voineet löytää merkkiäkään miehestä, jota etsimme.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7261327505111694,0.27386724948883057
+3,"Emme voineet löytää merkkiäkään miehestä, jota etsimme.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.689835786819458,0.310164213180542
+4,"Luulenpa, että pyydän sinua sulkemaan ikkunan, ellei, sinulla ole mitään sitä vastaan.",Finnish,Sequential,Epoch 1,0,embedding,0.6834442615509033,0.3165557384490967
+4,"Luulenpa, että pyydän sinua sulkemaan ikkunan, ellei, sinulla ole mitään sitä vastaan.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7238849401473999,0.2761150598526001
+4,"Luulenpa, että pyydän sinua sulkemaan ikkunan, ellei, sinulla ole mitään sitä vastaan.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.6730862259864807,0.3269137740135193
+5,"Tämä mies suorittaa kieltämättä työnsä maalla ja käy paljon jalan.""",Finnish,Sequential,Epoch 1,0,embedding,0.03035495989024639,0.9696450401097536
+5,"Tämä mies suorittaa kieltämättä työnsä maalla ja käy paljon jalan.""",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.719916820526123,0.28008317947387695
+5,"Tämä mies suorittaa kieltämättä työnsä maalla ja käy paljon jalan.""",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.7043163776397705,0.2956836223602295
+6,"""Ei, hän oli vinnillä sillä hetkellä, niin etten voinut antaa sitä hänelle itselleen, vaan jätin sen rouva Barrymorelle, joka lupasi heti antaa sen miehelleen.""",Finnish,Sequential,Epoch 1,0,embedding,0.5758401155471802,0.4241598844528198
+6,"""Ei, hän oli vinnillä sillä hetkellä, niin etten voinut antaa sitä hänelle itselleen, vaan jätin sen rouva Barrymorelle, joka lupasi heti antaa sen miehelleen.""",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7475748062133789,0.2524251937866211
+6,"""Ei, hän oli vinnillä sillä hetkellä, niin etten voinut antaa sitä hänelle itselleen, vaan jätin sen rouva Barrymorelle, joka lupasi heti antaa sen miehelleen.""",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.6917239427566528,0.30827605724334717
+7,"""Hänen hermonsa olivat niin kiihotuksissa, että luulen minkä koiran näkemisen tahansa voineen vaikuttaa onnettomasti hänen sairaaseen sydämeensä.",Finnish,Sequential,Epoch 1,0,embedding,0.4336886703968048,0.5663113296031952
+7,"""Hänen hermonsa olivat niin kiihotuksissa, että luulen minkä koiran näkemisen tahansa voineen vaikuttaa onnettomasti hänen sairaaseen sydämeensä.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.80389404296875,0.19610595703125
+7,"""Hänen hermonsa olivat niin kiihotuksissa, että luulen minkä koiran näkemisen tahansa voineen vaikuttaa onnettomasti hänen sairaaseen sydämeensä.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.7214986085891724,0.27850139141082764
+8,"Te varmaankin kutsutte arvaukseksi sitäkin, mielestäni melkein varmaa seikkaa, että tämä kirje on laadittu jossakin hotellissa.""",Finnish,Sequential,Epoch 1,0,embedding,0.531534731388092,0.46846526861190796
+8,"Te varmaankin kutsutte arvaukseksi sitäkin, mielestäni melkein varmaa seikkaa, että tämä kirje on laadittu jossakin hotellissa.""",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7684239745140076,0.23157602548599243
+8,"Te varmaankin kutsutte arvaukseksi sitäkin, mielestäni melkein varmaa seikkaa, että tämä kirje on laadittu jossakin hotellissa.""",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.6881965398788452,0.3118034601211548
+9,"Tahtoisitteko te, tohtori Watson, tulla katsomaan perhoskokoelmaani?",Finnish,Sequential,Epoch 1,0,embedding,0.8714266419410706,0.12857335805892944
+9,"Tahtoisitteko te, tohtori Watson, tulla katsomaan perhoskokoelmaani?",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8273509740829468,0.17264902591705322
+9,"Tahtoisitteko te, tohtori Watson, tulla katsomaan perhoskokoelmaani?",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.7212819457054138,0.2787180542945862
+10,Me emme nähneet koiraa.,Finnish,Sequential,Epoch 1,0,embedding,0.5222044587135315,0.4777955412864685
+10,Me emme nähneet koiraa.,Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8906435370445251,0.10935646295547485
+10,Me emme nähneet koiraa.,Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.7941800951957703,0.20581990480422974
+11,"Sir Henry hieroi tyytyväisenä käsiään ja oli aivan selvää, ettei pieni seikkailu ollut hänelle vastenmielinen vähäisenä vaihteluna hieman yksitoikkoisessa elämässämme nummella.",Finnish,Sequential,Epoch 1,0,embedding,0.007798474282026291,0.9922015257179737
+11,"Sir Henry hieroi tyytyväisenä käsiään ja oli aivan selvää, ettei pieni seikkailu ollut hänelle vastenmielinen vähäisenä vaihteluna hieman yksitoikkoisessa elämässämme nummella.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7221683859825134,0.2778316140174866
+11,"Sir Henry hieroi tyytyväisenä käsiään ja oli aivan selvää, ettei pieni seikkailu ollut hänelle vastenmielinen vähäisenä vaihteluna hieman yksitoikkoisessa elämässämme nummella.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.6781066060066223,0.3218933939933777
+12,"""Olimmehan kumminkin jokseenkin kaukana, ja sumu ehkäisi jossakin määrin ääntä kuulumasta"", väitin minä.",Finnish,Sequential,Epoch 1,0,embedding,0.1296139806509018,0.8703860193490982
+12,"""Olimmehan kumminkin jokseenkin kaukana, ja sumu ehkäisi jossakin määrin ääntä kuulumasta"", väitin minä.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7893244624137878,0.21067553758621216
+12,"""Olimmehan kumminkin jokseenkin kaukana, ja sumu ehkäisi jossakin määrin ääntä kuulumasta"", väitin minä.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.6943633556365967,0.3056366443634033
+13,"""Pääkonttorista on minulle ilmoitettu, että joku herra, joka asuu täällä, on kysynyt numeroa 2,704"", sanoi hän.",Finnish,Sequential,Epoch 1,0,embedding,0.5380762815475464,0.4619237184524536
+13,"""Pääkonttorista on minulle ilmoitettu, että joku herra, joka asuu täällä, on kysynyt numeroa 2,704"", sanoi hän.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7630699872970581,0.2369300127029419
+13,"""Pääkonttorista on minulle ilmoitettu, että joku herra, joka asuu täällä, on kysynyt numeroa 2,704"", sanoi hän.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.6951536536216736,0.3048463463783264
+14,"Te, Watson, olette muutamia viikkoja elänyt yhdessä minun kanssani, ja minä pyydän nyt teitä rehellisesti ilmaisemaan ajatuksenne.",Finnish,Sequential,Epoch 1,0,embedding,0.7076490521430969,0.2923509478569031
+14,"Te, Watson, olette muutamia viikkoja elänyt yhdessä minun kanssani, ja minä pyydän nyt teitä rehellisesti ilmaisemaan ajatuksenne.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7364611029624939,0.2635388970375061
+14,"Te, Watson, olette muutamia viikkoja elänyt yhdessä minun kanssani, ja minä pyydän nyt teitä rehellisesti ilmaisemaan ajatuksenne.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.670721173286438,0.329278826713562
+15,Postinhoitaja -- joka samalla oli kylän tai kauppalan maustetavarankauppias -- muisti hyvin tuon sähkösanoman.,Finnish,Sequential,Epoch 1,0,embedding,0.6331097483634949,0.3668902516365051
+15,Postinhoitaja -- joka samalla oli kylän tai kauppalan maustetavarankauppias -- muisti hyvin tuon sähkösanoman.,Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7824424505233765,0.21755754947662354
+15,Postinhoitaja -- joka samalla oli kylän tai kauppalan maustetavarankauppias -- muisti hyvin tuon sähkösanoman.,Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.6859211325645447,0.3140788674354553
+16,"Tästä saat vielä, kymmenen shillingiä satunnaisten vaikeuksien varalle.",Finnish,Sequential,Epoch 1,0,embedding,0.30685877799987793,0.6931412220001221
+16,"Tästä saat vielä, kymmenen shillingiä satunnaisten vaikeuksien varalle.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7849597334861755,0.21504026651382446
+16,"Tästä saat vielä, kymmenen shillingiä satunnaisten vaikeuksien varalle.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.7324517965316772,0.26754820346832275
+17,"Arvelin mahdolliseksi vielä saavuttaa hänet, ja niin lähdin heti kulkemaan sille suunnalle, jossa Merripit House sijaitsee.",Finnish,Sequential,Epoch 1,0,embedding,0.7885146141052246,0.2114853858947754
+17,"Arvelin mahdolliseksi vielä saavuttaa hänet, ja niin lähdin heti kulkemaan sille suunnalle, jossa Merripit House sijaitsee.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8208861947059631,0.17911380529403687
+17,"Arvelin mahdolliseksi vielä saavuttaa hänet, ja niin lähdin heti kulkemaan sille suunnalle, jossa Merripit House sijaitsee.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.7093786001205444,0.29062139987945557
+18,"Hänen itkunsa siis olimme yöllä kuulleet, ja sen oli hänen miehensä täytynyt arvata.",Finnish,Sequential,Epoch 1,0,embedding,0.3258017301559448,0.6741982698440552
+18,"Hänen itkunsa siis olimme yöllä kuulleet, ja sen oli hänen miehensä täytynyt arvata.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.7364252209663391,0.2635747790336609
+18,"Hänen itkunsa siis olimme yöllä kuulleet, ja sen oli hänen miehensä täytynyt arvata.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.6868086457252502,0.31319135427474976
+19,"""Te olette innokas ammatissanne, sen huomaan, niinkuin minä omassani"", sanoi hän.",Finnish,Sequential,Epoch 1,0,embedding,0.8004385232925415,0.1995614767074585
+19,"""Te olette innokas ammatissanne, sen huomaan, niinkuin minä omassani"", sanoi hän.",Finnish,Sequential,Epoch 1,1,transformer_layer_1,0.8091408014297485,0.19085919857025146
+19,"""Te olette innokas ammatissanne, sen huomaan, niinkuin minä omassani"", sanoi hän.",Finnish,Sequential,Epoch 1,2,transformer_layer_2,0.7081000804901123,0.2918999195098877
+0,"Se on niin laaja, niin autio, niin salaperäinen.""",Finnish,Sequential,Final,0,embedding,0.8977364301681519,0.10226356983184814
+0,"Se on niin laaja, niin autio, niin salaperäinen.""",Finnish,Sequential,Final,1,transformer_layer_1,0.7653093934059143,0.2346906065940857
+0,"Se on niin laaja, niin autio, niin salaperäinen.""",Finnish,Sequential,Final,2,transformer_layer_2,0.8287776708602905,0.17122232913970947
+1,"""Ei, arvoisain esi-isäimme asuntoja.",Finnish,Sequential,Final,0,embedding,0.8752161264419556,0.12478387355804443
+1,"""Ei, arvoisain esi-isäimme asuntoja.",Finnish,Sequential,Final,1,transformer_layer_1,0.8765577077865601,0.12344229221343994
+1,"""Ei, arvoisain esi-isäimme asuntoja.",Finnish,Sequential,Final,2,transformer_layer_2,0.8481317758560181,0.15186822414398193
+2,Varovasti hiivimme eteenpäin koetellen joka lautaa ennenkuin uskalsimme siirtää sille koko painomme.,Finnish,Sequential,Final,0,embedding,0.5250102281570435,0.47498977184295654
+2,Varovasti hiivimme eteenpäin koetellen joka lautaa ennenkuin uskalsimme siirtää sille koko painomme.,Finnish,Sequential,Final,1,transformer_layer_1,0.9117677807807922,0.08823221921920776
+2,Varovasti hiivimme eteenpäin koetellen joka lautaa ennenkuin uskalsimme siirtää sille koko painomme.,Finnish,Sequential,Final,2,transformer_layer_2,0.8379017114639282,0.16209828853607178
+3,"Emme voineet löytää merkkiäkään miehestä, jota etsimme.",Finnish,Sequential,Final,0,embedding,0.07994800806045532,0.9200519919395447
+3,"Emme voineet löytää merkkiäkään miehestä, jota etsimme.",Finnish,Sequential,Final,1,transformer_layer_1,0.6828501224517822,0.3171498775482178
+3,"Emme voineet löytää merkkiäkään miehestä, jota etsimme.",Finnish,Sequential,Final,2,transformer_layer_2,0.7551527619361877,0.24484723806381226
+4,"Luulenpa, että pyydän sinua sulkemaan ikkunan, ellei, sinulla ole mitään sitä vastaan.",Finnish,Sequential,Final,0,embedding,0.6760773658752441,0.32392263412475586
+4,"Luulenpa, että pyydän sinua sulkemaan ikkunan, ellei, sinulla ole mitään sitä vastaan.",Finnish,Sequential,Final,1,transformer_layer_1,0.8083372116088867,0.19166278839111328
+4,"Luulenpa, että pyydän sinua sulkemaan ikkunan, ellei, sinulla ole mitään sitä vastaan.",Finnish,Sequential,Final,2,transformer_layer_2,0.7995581030845642,0.2004418969154358
+5,"Tämä mies suorittaa kieltämättä työnsä maalla ja käy paljon jalan.""",Finnish,Sequential,Final,0,embedding,0.033090077340602875,0.9669099226593971
+5,"Tämä mies suorittaa kieltämättä työnsä maalla ja käy paljon jalan.""",Finnish,Sequential,Final,1,transformer_layer_1,0.6152796745300293,0.3847203254699707
+5,"Tämä mies suorittaa kieltämättä työnsä maalla ja käy paljon jalan.""",Finnish,Sequential,Final,2,transformer_layer_2,0.756089985370636,0.243910014629364
+6,"""Ei, hän oli vinnillä sillä hetkellä, niin etten voinut antaa sitä hänelle itselleen, vaan jätin sen rouva Barrymorelle, joka lupasi heti antaa sen miehelleen.""",Finnish,Sequential,Final,0,embedding,0.5622448921203613,0.43775510787963867
+6,"""Ei, hän oli vinnillä sillä hetkellä, niin etten voinut antaa sitä hänelle itselleen, vaan jätin sen rouva Barrymorelle, joka lupasi heti antaa sen miehelleen.""",Finnish,Sequential,Final,1,transformer_layer_1,0.818529486656189,0.18147051334381104
+6,"""Ei, hän oli vinnillä sillä hetkellä, niin etten voinut antaa sitä hänelle itselleen, vaan jätin sen rouva Barrymorelle, joka lupasi heti antaa sen miehelleen.""",Finnish,Sequential,Final,2,transformer_layer_2,0.823589563369751,0.17641043663024902
+7,"""Hänen hermonsa olivat niin kiihotuksissa, että luulen minkä koiran näkemisen tahansa voineen vaikuttaa onnettomasti hänen sairaaseen sydämeensä.",Finnish,Sequential,Final,0,embedding,0.42494893074035645,0.5750510692596436
+7,"""Hänen hermonsa olivat niin kiihotuksissa, että luulen minkä koiran näkemisen tahansa voineen vaikuttaa onnettomasti hänen sairaaseen sydämeensä.",Finnish,Sequential,Final,1,transformer_layer_1,0.8512916564941406,0.14870834350585938
+7,"""Hänen hermonsa olivat niin kiihotuksissa, että luulen minkä koiran näkemisen tahansa voineen vaikuttaa onnettomasti hänen sairaaseen sydämeensä.",Finnish,Sequential,Final,2,transformer_layer_2,0.8244326114654541,0.1755673885345459
+8,"Te varmaankin kutsutte arvaukseksi sitäkin, mielestäni melkein varmaa seikkaa, että tämä kirje on laadittu jossakin hotellissa.""",Finnish,Sequential,Final,0,embedding,0.5195406675338745,0.4804593324661255
+8,"Te varmaankin kutsutte arvaukseksi sitäkin, mielestäni melkein varmaa seikkaa, että tämä kirje on laadittu jossakin hotellissa.""",Finnish,Sequential,Final,1,transformer_layer_1,0.8670555353164673,0.13294446468353271
+8,"Te varmaankin kutsutte arvaukseksi sitäkin, mielestäni melkein varmaa seikkaa, että tämä kirje on laadittu jossakin hotellissa.""",Finnish,Sequential,Final,2,transformer_layer_2,0.8098673820495605,0.19013261795043945
+9,"Tahtoisitteko te, tohtori Watson, tulla katsomaan perhoskokoelmaani?",Finnish,Sequential,Final,0,embedding,0.8556267023086548,0.14437329769134521
+9,"Tahtoisitteko te, tohtori Watson, tulla katsomaan perhoskokoelmaani?",Finnish,Sequential,Final,1,transformer_layer_1,0.9228280186653137,0.07717198133468628
+9,"Tahtoisitteko te, tohtori Watson, tulla katsomaan perhoskokoelmaani?",Finnish,Sequential,Final,2,transformer_layer_2,0.8385190963745117,0.16148090362548828
+10,Me emme nähneet koiraa.,Finnish,Sequential,Final,0,embedding,0.49955976009368896,0.500440239906311
+10,Me emme nähneet koiraa.,Finnish,Sequential,Final,1,transformer_layer_1,0.8499891757965088,0.1500108242034912
+10,Me emme nähneet koiraa.,Finnish,Sequential,Final,2,transformer_layer_2,0.8564518094062805,0.14354819059371948
+11,"Sir Henry hieroi tyytyväisenä käsiään ja oli aivan selvää, ettei pieni seikkailu ollut hänelle vastenmielinen vähäisenä vaihteluna hieman yksitoikkoisessa elämässämme nummella.",Finnish,Sequential,Final,0,embedding,0.02473188191652298,0.975268118083477
+11,"Sir Henry hieroi tyytyväisenä käsiään ja oli aivan selvää, ettei pieni seikkailu ollut hänelle vastenmielinen vähäisenä vaihteluna hieman yksitoikkoisessa elämässämme nummella.",Finnish,Sequential,Final,1,transformer_layer_1,0.6949410438537598,0.30505895614624023
+11,"Sir Henry hieroi tyytyväisenä käsiään ja oli aivan selvää, ettei pieni seikkailu ollut hänelle vastenmielinen vähäisenä vaihteluna hieman yksitoikkoisessa elämässämme nummella.",Finnish,Sequential,Final,2,transformer_layer_2,0.7521950006484985,0.24780499935150146
+12,"""Olimmehan kumminkin jokseenkin kaukana, ja sumu ehkäisi jossakin määrin ääntä kuulumasta"", väitin minä.",Finnish,Sequential,Final,0,embedding,0.13374365866184235,0.8662563413381577
+12,"""Olimmehan kumminkin jokseenkin kaukana, ja sumu ehkäisi jossakin määrin ääntä kuulumasta"", väitin minä.",Finnish,Sequential,Final,1,transformer_layer_1,0.8320503234863281,0.16794967651367188
+12,"""Olimmehan kumminkin jokseenkin kaukana, ja sumu ehkäisi jossakin määrin ääntä kuulumasta"", väitin minä.",Finnish,Sequential,Final,2,transformer_layer_2,0.7818552255630493,0.21814477443695068
+13,"""Pääkonttorista on minulle ilmoitettu, että joku herra, joka asuu täällä, on kysynyt numeroa 2,704"", sanoi hän.",Finnish,Sequential,Final,0,embedding,0.5297644138336182,0.47023558616638184
+13,"""Pääkonttorista on minulle ilmoitettu, että joku herra, joka asuu täällä, on kysynyt numeroa 2,704"", sanoi hän.",Finnish,Sequential,Final,1,transformer_layer_1,0.8015236258506775,0.1984763741493225
+13,"""Pääkonttorista on minulle ilmoitettu, että joku herra, joka asuu täällä, on kysynyt numeroa 2,704"", sanoi hän.",Finnish,Sequential,Final,2,transformer_layer_2,0.8030469417572021,0.19695305824279785
+14,"Te, Watson, olette muutamia viikkoja elänyt yhdessä minun kanssani, ja minä pyydän nyt teitä rehellisesti ilmaisemaan ajatuksenne.",Finnish,Sequential,Final,0,embedding,0.6974165439605713,0.3025834560394287
+14,"Te, Watson, olette muutamia viikkoja elänyt yhdessä minun kanssani, ja minä pyydän nyt teitä rehellisesti ilmaisemaan ajatuksenne.",Finnish,Sequential,Final,1,transformer_layer_1,0.8508428335189819,0.14915716648101807
+14,"Te, Watson, olette muutamia viikkoja elänyt yhdessä minun kanssani, ja minä pyydän nyt teitä rehellisesti ilmaisemaan ajatuksenne.",Finnish,Sequential,Final,2,transformer_layer_2,0.78769451379776,0.21230548620224
+15,Postinhoitaja -- joka samalla oli kylän tai kauppalan maustetavarankauppias -- muisti hyvin tuon sähkösanoman.,Finnish,Sequential,Final,0,embedding,0.6206561923027039,0.37934380769729614
+15,Postinhoitaja -- joka samalla oli kylän tai kauppalan maustetavarankauppias -- muisti hyvin tuon sähkösanoman.,Finnish,Sequential,Final,1,transformer_layer_1,0.9094060659408569,0.09059393405914307
+15,Postinhoitaja -- joka samalla oli kylän tai kauppalan maustetavarankauppias -- muisti hyvin tuon sähkösanoman.,Finnish,Sequential,Final,2,transformer_layer_2,0.8193985819816589,0.18060141801834106
+16,"Tästä saat vielä, kymmenen shillingiä satunnaisten vaikeuksien varalle.",Finnish,Sequential,Final,0,embedding,0.2936093211174011,0.7063906788825989
+16,"Tästä saat vielä, kymmenen shillingiä satunnaisten vaikeuksien varalle.",Finnish,Sequential,Final,1,transformer_layer_1,0.7470462322235107,0.25295376777648926
+16,"Tästä saat vielä, kymmenen shillingiä satunnaisten vaikeuksien varalle.",Finnish,Sequential,Final,2,transformer_layer_2,0.8133240938186646,0.18667590618133545
+17,"Arvelin mahdolliseksi vielä saavuttaa hänet, ja niin lähdin heti kulkemaan sille suunnalle, jossa Merripit House sijaitsee.",Finnish,Sequential,Final,0,embedding,0.776272177696228,0.22372782230377197
+17,"Arvelin mahdolliseksi vielä saavuttaa hänet, ja niin lähdin heti kulkemaan sille suunnalle, jossa Merripit House sijaitsee.",Finnish,Sequential,Final,1,transformer_layer_1,0.8793984651565552,0.12060153484344482
+17,"Arvelin mahdolliseksi vielä saavuttaa hänet, ja niin lähdin heti kulkemaan sille suunnalle, jossa Merripit House sijaitsee.",Finnish,Sequential,Final,2,transformer_layer_2,0.8262792825698853,0.17372071743011475
+18,"Hänen itkunsa siis olimme yöllä kuulleet, ja sen oli hänen miehensä täytynyt arvata.",Finnish,Sequential,Final,0,embedding,0.3275488317012787,0.6724511682987213
+18,"Hänen itkunsa siis olimme yöllä kuulleet, ja sen oli hänen miehensä täytynyt arvata.",Finnish,Sequential,Final,1,transformer_layer_1,0.7785604000091553,0.22143959999084473
+18,"Hänen itkunsa siis olimme yöllä kuulleet, ja sen oli hänen miehensä täytynyt arvata.",Finnish,Sequential,Final,2,transformer_layer_2,0.7980366945266724,0.20196330547332764
+19,"""Te olette innokas ammatissanne, sen huomaan, niinkuin minä omassani"", sanoi hän.",Finnish,Sequential,Final,0,embedding,0.7892012000083923,0.21079879999160767
+19,"""Te olette innokas ammatissanne, sen huomaan, niinkuin minä omassani"", sanoi hän.",Finnish,Sequential,Final,1,transformer_layer_1,0.8606153130531311,0.1393846869468689
+19,"""Te olette innokas ammatissanne, sen huomaan, niinkuin minä omassani"", sanoi hän.",Finnish,Sequential,Final,2,transformer_layer_2,0.8457620739936829,0.15423792600631714
+0,"Se on niin laaja, niin autio, niin salaperäinen.""",Finnish,EWC,Epoch 1,0,embedding,0.9063799977302551,0.09362000226974487
+0,"Se on niin laaja, niin autio, niin salaperäinen.""",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.760339081287384,0.23966091871261597
+0,"Se on niin laaja, niin autio, niin salaperäinen.""",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.6849455237388611,0.3150544762611389
+1,"""Ei, arvoisain esi-isäimme asuntoja.",Finnish,EWC,Epoch 1,0,embedding,0.8920056819915771,0.10799431800842285
+1,"""Ei, arvoisain esi-isäimme asuntoja.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8437609672546387,0.15623903274536133
+1,"""Ei, arvoisain esi-isäimme asuntoja.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.7260414958000183,0.2739585041999817
+2,Varovasti hiivimme eteenpäin koetellen joka lautaa ennenkuin uskalsimme siirtää sille koko painomme.,Finnish,EWC,Epoch 1,0,embedding,0.5379633903503418,0.4620366096496582
+2,Varovasti hiivimme eteenpäin koetellen joka lautaa ennenkuin uskalsimme siirtää sille koko painomme.,Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8427637815475464,0.1572362184524536
+2,Varovasti hiivimme eteenpäin koetellen joka lautaa ennenkuin uskalsimme siirtää sille koko painomme.,Finnish,EWC,Epoch 1,2,transformer_layer_2,0.7221201062202454,0.27787989377975464
+3,"Emme voineet löytää merkkiäkään miehestä, jota etsimme.",Finnish,EWC,Epoch 1,0,embedding,0.0758054256439209,0.9241945743560791
+3,"Emme voineet löytää merkkiäkään miehestä, jota etsimme.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7262045741081238,0.2737954258918762
+3,"Emme voineet löytää merkkiäkään miehestä, jota etsimme.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.6897761821746826,0.3102238178253174
+4,"Luulenpa, että pyydän sinua sulkemaan ikkunan, ellei, sinulla ole mitään sitä vastaan.",Finnish,EWC,Epoch 1,0,embedding,0.6835839748382568,0.31641602516174316
+4,"Luulenpa, että pyydän sinua sulkemaan ikkunan, ellei, sinulla ole mitään sitä vastaan.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7238893508911133,0.2761106491088867
+4,"Luulenpa, että pyydän sinua sulkemaan ikkunan, ellei, sinulla ole mitään sitä vastaan.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.673014760017395,0.326985239982605
+5,"Tämä mies suorittaa kieltämättä työnsä maalla ja käy paljon jalan.""",Finnish,EWC,Epoch 1,0,embedding,0.030364779755473137,0.9696352202445269
+5,"Tämä mies suorittaa kieltämättä työnsä maalla ja käy paljon jalan.""",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7199445366859436,0.2800554633140564
+5,"Tämä mies suorittaa kieltämättä työnsä maalla ja käy paljon jalan.""",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.7042198777198792,0.29578012228012085
+6,"""Ei, hän oli vinnillä sillä hetkellä, niin etten voinut antaa sitä hänelle itselleen, vaan jätin sen rouva Barrymorelle, joka lupasi heti antaa sen miehelleen.""",Finnish,EWC,Epoch 1,0,embedding,0.5758907198905945,0.4241092801094055
+6,"""Ei, hän oli vinnillä sillä hetkellä, niin etten voinut antaa sitä hänelle itselleen, vaan jätin sen rouva Barrymorelle, joka lupasi heti antaa sen miehelleen.""",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7475972175598145,0.25240278244018555
+6,"""Ei, hän oli vinnillä sillä hetkellä, niin etten voinut antaa sitä hänelle itselleen, vaan jätin sen rouva Barrymorelle, joka lupasi heti antaa sen miehelleen.""",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.6916202306747437,0.30837976932525635
+7,"""Hänen hermonsa olivat niin kiihotuksissa, että luulen minkä koiran näkemisen tahansa voineen vaikuttaa onnettomasti hänen sairaaseen sydämeensä.",Finnish,EWC,Epoch 1,0,embedding,0.4337232708930969,0.5662767291069031
+7,"""Hänen hermonsa olivat niin kiihotuksissa, että luulen minkä koiran näkemisen tahansa voineen vaikuttaa onnettomasti hänen sairaaseen sydämeensä.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8038562536239624,0.1961437463760376
+7,"""Hänen hermonsa olivat niin kiihotuksissa, että luulen minkä koiran näkemisen tahansa voineen vaikuttaa onnettomasti hänen sairaaseen sydämeensä.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.7213140726089478,0.27868592739105225
+8,"Te varmaankin kutsutte arvaukseksi sitäkin, mielestäni melkein varmaa seikkaa, että tämä kirje on laadittu jossakin hotellissa.""",Finnish,EWC,Epoch 1,0,embedding,0.5316872596740723,0.46831274032592773
+8,"Te varmaankin kutsutte arvaukseksi sitäkin, mielestäni melkein varmaa seikkaa, että tämä kirje on laadittu jossakin hotellissa.""",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7685241103172302,0.23147588968276978
+8,"Te varmaankin kutsutte arvaukseksi sitäkin, mielestäni melkein varmaa seikkaa, että tämä kirje on laadittu jossakin hotellissa.""",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.6881484389305115,0.3118515610694885
+9,"Tahtoisitteko te, tohtori Watson, tulla katsomaan perhoskokoelmaani?",Finnish,EWC,Epoch 1,0,embedding,0.8715100288391113,0.12848997116088867
+9,"Tahtoisitteko te, tohtori Watson, tulla katsomaan perhoskokoelmaani?",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8273991942405701,0.17260080575942993
+9,"Tahtoisitteko te, tohtori Watson, tulla katsomaan perhoskokoelmaani?",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.7212295532226562,0.27877044677734375
+10,Me emme nähneet koiraa.,Finnish,EWC,Epoch 1,0,embedding,0.5222120881080627,0.47778791189193726
+10,Me emme nähneet koiraa.,Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8908666372299194,0.10913336277008057
+10,Me emme nähneet koiraa.,Finnish,EWC,Epoch 1,2,transformer_layer_2,0.7941356301307678,0.20586436986923218
+11,"Sir Henry hieroi tyytyväisenä käsiään ja oli aivan selvää, ettei pieni seikkailu ollut hänelle vastenmielinen vähäisenä vaihteluna hieman yksitoikkoisessa elämässämme nummella.",Finnish,EWC,Epoch 1,0,embedding,0.007830009795725346,0.9921699902042747
+11,"Sir Henry hieroi tyytyväisenä käsiään ja oli aivan selvää, ettei pieni seikkailu ollut hänelle vastenmielinen vähäisenä vaihteluna hieman yksitoikkoisessa elämässämme nummella.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7222067713737488,0.2777932286262512
+11,"Sir Henry hieroi tyytyväisenä käsiään ja oli aivan selvää, ettei pieni seikkailu ollut hänelle vastenmielinen vähäisenä vaihteluna hieman yksitoikkoisessa elämässämme nummella.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.6780202984809875,0.32197970151901245
+12,"""Olimmehan kumminkin jokseenkin kaukana, ja sumu ehkäisi jossakin määrin ääntä kuulumasta"", väitin minä.",Finnish,EWC,Epoch 1,0,embedding,0.1297294795513153,0.8702705204486847
+12,"""Olimmehan kumminkin jokseenkin kaukana, ja sumu ehkäisi jossakin määrin ääntä kuulumasta"", väitin minä.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7892955541610718,0.21070444583892822
+12,"""Olimmehan kumminkin jokseenkin kaukana, ja sumu ehkäisi jossakin määrin ääntä kuulumasta"", väitin minä.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.6942703127861023,0.3057296872138977
+13,"""Pääkonttorista on minulle ilmoitettu, että joku herra, joka asuu täällä, on kysynyt numeroa 2,704"", sanoi hän.",Finnish,EWC,Epoch 1,0,embedding,0.5380908846855164,0.46190911531448364
+13,"""Pääkonttorista on minulle ilmoitettu, että joku herra, joka asuu täällä, on kysynyt numeroa 2,704"", sanoi hän.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7630303502082825,0.23696964979171753
+13,"""Pääkonttorista on minulle ilmoitettu, että joku herra, joka asuu täällä, on kysynyt numeroa 2,704"", sanoi hän.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.6950329542160034,0.3049670457839966
+14,"Te, Watson, olette muutamia viikkoja elänyt yhdessä minun kanssani, ja minä pyydän nyt teitä rehellisesti ilmaisemaan ajatuksenne.",Finnish,EWC,Epoch 1,0,embedding,0.707750678062439,0.29224932193756104
+14,"Te, Watson, olette muutamia viikkoja elänyt yhdessä minun kanssani, ja minä pyydän nyt teitä rehellisesti ilmaisemaan ajatuksenne.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7365242838859558,0.2634757161140442
+14,"Te, Watson, olette muutamia viikkoja elänyt yhdessä minun kanssani, ja minä pyydän nyt teitä rehellisesti ilmaisemaan ajatuksenne.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.6706670522689819,0.32933294773101807
+15,Postinhoitaja -- joka samalla oli kylän tai kauppalan maustetavarankauppias -- muisti hyvin tuon sähkösanoman.,Finnish,EWC,Epoch 1,0,embedding,0.6332279443740845,0.3667720556259155
+15,Postinhoitaja -- joka samalla oli kylän tai kauppalan maustetavarankauppias -- muisti hyvin tuon sähkösanoman.,Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7823970913887024,0.2176029086112976
+15,Postinhoitaja -- joka samalla oli kylän tai kauppalan maustetavarankauppias -- muisti hyvin tuon sähkösanoman.,Finnish,EWC,Epoch 1,2,transformer_layer_2,0.6858470439910889,0.31415295600891113
+16,"Tästä saat vielä, kymmenen shillingiä satunnaisten vaikeuksien varalle.",Finnish,EWC,Epoch 1,0,embedding,0.3068736493587494,0.6931263506412506
+16,"Tästä saat vielä, kymmenen shillingiä satunnaisten vaikeuksien varalle.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7850524187088013,0.21494758129119873
+16,"Tästä saat vielä, kymmenen shillingiä satunnaisten vaikeuksien varalle.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.7323462963104248,0.2676537036895752
+17,"Arvelin mahdolliseksi vielä saavuttaa hänet, ja niin lähdin heti kulkemaan sille suunnalle, jossa Merripit House sijaitsee.",Finnish,EWC,Epoch 1,0,embedding,0.788580596446991,0.21141940355300903
+17,"Arvelin mahdolliseksi vielä saavuttaa hänet, ja niin lähdin heti kulkemaan sille suunnalle, jossa Merripit House sijaitsee.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8210112452507019,0.1789887547492981
+17,"Arvelin mahdolliseksi vielä saavuttaa hänet, ja niin lähdin heti kulkemaan sille suunnalle, jossa Merripit House sijaitsee.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.7093362808227539,0.2906637191772461
+18,"Hänen itkunsa siis olimme yöllä kuulleet, ja sen oli hänen miehensä täytynyt arvata.",Finnish,EWC,Epoch 1,0,embedding,0.3258522152900696,0.6741477847099304
+18,"Hänen itkunsa siis olimme yöllä kuulleet, ja sen oli hänen miehensä täytynyt arvata.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.7364566922187805,0.2635433077812195
+18,"Hänen itkunsa siis olimme yöllä kuulleet, ja sen oli hänen miehensä täytynyt arvata.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.6867531538009644,0.31324684619903564
+19,"""Te olette innokas ammatissanne, sen huomaan, niinkuin minä omassani"", sanoi hän.",Finnish,EWC,Epoch 1,0,embedding,0.8005656599998474,0.1994343400001526
+19,"""Te olette innokas ammatissanne, sen huomaan, niinkuin minä omassani"", sanoi hän.",Finnish,EWC,Epoch 1,1,transformer_layer_1,0.8090810775756836,0.1909189224243164
+19,"""Te olette innokas ammatissanne, sen huomaan, niinkuin minä omassani"", sanoi hän.",Finnish,EWC,Epoch 1,2,transformer_layer_2,0.7079682350158691,0.29203176498413086
+0,"Se on niin laaja, niin autio, niin salaperäinen.""",Finnish,EWC,Final,0,embedding,0.8979310989379883,0.10206890106201172
+0,"Se on niin laaja, niin autio, niin salaperäinen.""",Finnish,EWC,Final,1,transformer_layer_1,0.7659664154052734,0.23403358459472656
+0,"Se on niin laaja, niin autio, niin salaperäinen.""",Finnish,EWC,Final,2,transformer_layer_2,0.828575074672699,0.17142492532730103
+1,"""Ei, arvoisain esi-isäimme asuntoja.",Finnish,EWC,Final,0,embedding,0.8754913210868835,0.12450867891311646
+1,"""Ei, arvoisain esi-isäimme asuntoja.",Finnish,EWC,Final,1,transformer_layer_1,0.877011239528656,0.122988760471344
+1,"""Ei, arvoisain esi-isäimme asuntoja.",Finnish,EWC,Final,2,transformer_layer_2,0.8476645350456238,0.15233546495437622
+2,Varovasti hiivimme eteenpäin koetellen joka lautaa ennenkuin uskalsimme siirtää sille koko painomme.,Finnish,EWC,Final,0,embedding,0.5251705050468445,0.4748294949531555
+2,Varovasti hiivimme eteenpäin koetellen joka lautaa ennenkuin uskalsimme siirtää sille koko painomme.,Finnish,EWC,Final,1,transformer_layer_1,0.9117300510406494,0.08826994895935059
+2,Varovasti hiivimme eteenpäin koetellen joka lautaa ennenkuin uskalsimme siirtää sille koko painomme.,Finnish,EWC,Final,2,transformer_layer_2,0.8374277353286743,0.16257226467132568
+3,"Emme voineet löytää merkkiäkään miehestä, jota etsimme.",Finnish,EWC,Final,0,embedding,0.07974717766046524,0.9202528223395348
+3,"Emme voineet löytää merkkiäkään miehestä, jota etsimme.",Finnish,EWC,Final,1,transformer_layer_1,0.6827616095542908,0.31723839044570923
+3,"Emme voineet löytää merkkiäkään miehestä, jota etsimme.",Finnish,EWC,Final,2,transformer_layer_2,0.7548772692680359,0.2451227307319641
+4,"Luulenpa, että pyydän sinua sulkemaan ikkunan, ellei, sinulla ole mitään sitä vastaan.",Finnish,EWC,Final,0,embedding,0.6763185262680054,0.32368147373199463
+4,"Luulenpa, että pyydän sinua sulkemaan ikkunan, ellei, sinulla ole mitään sitä vastaan.",Finnish,EWC,Final,1,transformer_layer_1,0.808070182800293,0.19192981719970703
+4,"Luulenpa, että pyydän sinua sulkemaan ikkunan, ellei, sinulla ole mitään sitä vastaan.",Finnish,EWC,Final,2,transformer_layer_2,0.7991212606430054,0.20087873935699463
+5,"Tämä mies suorittaa kieltämättä työnsä maalla ja käy paljon jalan.""",Finnish,EWC,Final,0,embedding,0.032994791865348816,0.9670052081346512
+5,"Tämä mies suorittaa kieltämättä työnsä maalla ja käy paljon jalan.""",Finnish,EWC,Final,1,transformer_layer_1,0.6152674555778503,0.38473254442214966
+5,"Tämä mies suorittaa kieltämättä työnsä maalla ja käy paljon jalan.""",Finnish,EWC,Final,2,transformer_layer_2,0.7557294368743896,0.24427056312561035
+6,"""Ei, hän oli vinnillä sillä hetkellä, niin etten voinut antaa sitä hänelle itselleen, vaan jätin sen rouva Barrymorelle, joka lupasi heti antaa sen miehelleen.""",Finnish,EWC,Final,0,embedding,0.5623627305030823,0.4376372694969177
+6,"""Ei, hän oli vinnillä sillä hetkellä, niin etten voinut antaa sitä hänelle itselleen, vaan jätin sen rouva Barrymorelle, joka lupasi heti antaa sen miehelleen.""",Finnish,EWC,Final,1,transformer_layer_1,0.818550169467926,0.18144983053207397
+6,"""Ei, hän oli vinnillä sillä hetkellä, niin etten voinut antaa sitä hänelle itselleen, vaan jätin sen rouva Barrymorelle, joka lupasi heti antaa sen miehelleen.""",Finnish,EWC,Final,2,transformer_layer_2,0.8232057094573975,0.17679429054260254
+7,"""Hänen hermonsa olivat niin kiihotuksissa, että luulen minkä koiran näkemisen tahansa voineen vaikuttaa onnettomasti hänen sairaaseen sydämeensä.",Finnish,EWC,Final,0,embedding,0.4250296652317047,0.5749703347682953
+7,"""Hänen hermonsa olivat niin kiihotuksissa, että luulen minkä koiran näkemisen tahansa voineen vaikuttaa onnettomasti hänen sairaaseen sydämeensä.",Finnish,EWC,Final,1,transformer_layer_1,0.8512555360794067,0.14874446392059326
+7,"""Hänen hermonsa olivat niin kiihotuksissa, että luulen minkä koiran näkemisen tahansa voineen vaikuttaa onnettomasti hänen sairaaseen sydämeensä.",Finnish,EWC,Final,2,transformer_layer_2,0.8239978551864624,0.1760021448135376
+8,"Te varmaankin kutsutte arvaukseksi sitäkin, mielestäni melkein varmaa seikkaa, että tämä kirje on laadittu jossakin hotellissa.""",Finnish,EWC,Final,0,embedding,0.5198195576667786,0.48018044233322144
+8,"Te varmaankin kutsutte arvaukseksi sitäkin, mielestäni melkein varmaa seikkaa, että tämä kirje on laadittu jossakin hotellissa.""",Finnish,EWC,Final,1,transformer_layer_1,0.8670752644538879,0.13292473554611206
+8,"Te varmaankin kutsutte arvaukseksi sitäkin, mielestäni melkein varmaa seikkaa, että tämä kirje on laadittu jossakin hotellissa.""",Finnish,EWC,Final,2,transformer_layer_2,0.8094652891159058,0.19053471088409424
+9,"Tahtoisitteko te, tohtori Watson, tulla katsomaan perhoskokoelmaani?",Finnish,EWC,Final,0,embedding,0.8557950854301453,0.14420491456985474
+9,"Tahtoisitteko te, tohtori Watson, tulla katsomaan perhoskokoelmaani?",Finnish,EWC,Final,1,transformer_layer_1,0.9227908253669739,0.07720917463302612
+9,"Tahtoisitteko te, tohtori Watson, tulla katsomaan perhoskokoelmaani?",Finnish,EWC,Final,2,transformer_layer_2,0.8381655216217041,0.1618344783782959
+10,Me emme nähneet koiraa.,Finnish,EWC,Final,0,embedding,0.4995369613170624,0.5004630386829376
+10,Me emme nähneet koiraa.,Finnish,EWC,Final,1,transformer_layer_1,0.8506087064743042,0.1493912935256958
+10,Me emme nähneet koiraa.,Finnish,EWC,Final,2,transformer_layer_2,0.8561517596244812,0.1438482403755188
+11,"Sir Henry hieroi tyytyväisenä käsiään ja oli aivan selvää, ettei pieni seikkailu ollut hänelle vastenmielinen vähäisenä vaihteluna hieman yksitoikkoisessa elämässämme nummella.",Finnish,EWC,Final,0,embedding,0.02476911060512066,0.9752308893948793
+11,"Sir Henry hieroi tyytyväisenä käsiään ja oli aivan selvää, ettei pieni seikkailu ollut hänelle vastenmielinen vähäisenä vaihteluna hieman yksitoikkoisessa elämässämme nummella.",Finnish,EWC,Final,1,transformer_layer_1,0.6950251460075378,0.30497485399246216
+11,"Sir Henry hieroi tyytyväisenä käsiään ja oli aivan selvää, ettei pieni seikkailu ollut hänelle vastenmielinen vähäisenä vaihteluna hieman yksitoikkoisessa elämässämme nummella.",Finnish,EWC,Final,2,transformer_layer_2,0.7519315481185913,0.2480684518814087
+12,"""Olimmehan kumminkin jokseenkin kaukana, ja sumu ehkäisi jossakin määrin ääntä kuulumasta"", väitin minä.",Finnish,EWC,Final,0,embedding,0.1339166909456253,0.8660833090543747
+12,"""Olimmehan kumminkin jokseenkin kaukana, ja sumu ehkäisi jossakin määrin ääntä kuulumasta"", väitin minä.",Finnish,EWC,Final,1,transformer_layer_1,0.8316296339035034,0.16837036609649658
+12,"""Olimmehan kumminkin jokseenkin kaukana, ja sumu ehkäisi jossakin määrin ääntä kuulumasta"", väitin minä.",Finnish,EWC,Final,2,transformer_layer_2,0.7814285159111023,0.2185714840888977
+13,"""Pääkonttorista on minulle ilmoitettu, että joku herra, joka asuu täällä, on kysynyt numeroa 2,704"", sanoi hän.",Finnish,EWC,Final,0,embedding,0.52984219789505,0.47015780210494995
+13,"""Pääkonttorista on minulle ilmoitettu, että joku herra, joka asuu täällä, on kysynyt numeroa 2,704"", sanoi hän.",Finnish,EWC,Final,1,transformer_layer_1,0.8012305498123169,0.1987694501876831
+13,"""Pääkonttorista on minulle ilmoitettu, että joku herra, joka asuu täällä, on kysynyt numeroa 2,704"", sanoi hän.",Finnish,EWC,Final,2,transformer_layer_2,0.802558183670044,0.19744181632995605
+14,"Te, Watson, olette muutamia viikkoja elänyt yhdessä minun kanssani, ja minä pyydän nyt teitä rehellisesti ilmaisemaan ajatuksenne.",Finnish,EWC,Final,0,embedding,0.6975976228713989,0.3024023771286011
+14,"Te, Watson, olette muutamia viikkoja elänyt yhdessä minun kanssani, ja minä pyydän nyt teitä rehellisesti ilmaisemaan ajatuksenne.",Finnish,EWC,Final,1,transformer_layer_1,0.8505406975746155,0.14945930242538452
+14,"Te, Watson, olette muutamia viikkoja elänyt yhdessä minun kanssani, ja minä pyydän nyt teitä rehellisesti ilmaisemaan ajatuksenne.",Finnish,EWC,Final,2,transformer_layer_2,0.7872959971427917,0.21270400285720825
+15,Postinhoitaja -- joka samalla oli kylän tai kauppalan maustetavarankauppias -- muisti hyvin tuon sähkösanoman.,Finnish,EWC,Final,0,embedding,0.6208348274230957,0.3791651725769043
+15,Postinhoitaja -- joka samalla oli kylän tai kauppalan maustetavarankauppias -- muisti hyvin tuon sähkösanoman.,Finnish,EWC,Final,1,transformer_layer_1,0.9092017412185669,0.0907982587814331
+15,Postinhoitaja -- joka samalla oli kylän tai kauppalan maustetavarankauppias -- muisti hyvin tuon sähkösanoman.,Finnish,EWC,Final,2,transformer_layer_2,0.8188943862915039,0.1811056137084961
+16,"Tästä saat vielä, kymmenen shillingiä satunnaisten vaikeuksien varalle.",Finnish,EWC,Final,0,embedding,0.29363155364990234,0.7063684463500977
+16,"Tästä saat vielä, kymmenen shillingiä satunnaisten vaikeuksien varalle.",Finnish,EWC,Final,1,transformer_layer_1,0.7470965385437012,0.25290346145629883
+16,"Tästä saat vielä, kymmenen shillingiä satunnaisten vaikeuksien varalle.",Finnish,EWC,Final,2,transformer_layer_2,0.8129823207855225,0.18701767921447754
+17,"Arvelin mahdolliseksi vielä saavuttaa hänet, ja niin lähdin heti kulkemaan sille suunnalle, jossa Merripit House sijaitsee.",Finnish,EWC,Final,0,embedding,0.7763831615447998,0.2236168384552002
+17,"Arvelin mahdolliseksi vielä saavuttaa hänet, ja niin lähdin heti kulkemaan sille suunnalle, jossa Merripit House sijaitsee.",Finnish,EWC,Final,1,transformer_layer_1,0.8794926404953003,0.12050735950469971
+17,"Arvelin mahdolliseksi vielä saavuttaa hänet, ja niin lähdin heti kulkemaan sille suunnalle, jossa Merripit House sijaitsee.",Finnish,EWC,Final,2,transformer_layer_2,0.8258952498435974,0.1741047501564026
+18,"Hänen itkunsa siis olimme yöllä kuulleet, ja sen oli hänen miehensä täytynyt arvata.",Finnish,EWC,Final,0,embedding,0.32761451601982117,0.6723854839801788
+18,"Hänen itkunsa siis olimme yöllä kuulleet, ja sen oli hänen miehensä täytynyt arvata.",Finnish,EWC,Final,1,transformer_layer_1,0.7783713340759277,0.22162866592407227
+18,"Hänen itkunsa siis olimme yöllä kuulleet, ja sen oli hänen miehensä täytynyt arvata.",Finnish,EWC,Final,2,transformer_layer_2,0.7976564168930054,0.20234358310699463
+19,"""Te olette innokas ammatissanne, sen huomaan, niinkuin minä omassani"", sanoi hän.",Finnish,EWC,Final,0,embedding,0.7894339561462402,0.21056604385375977
+19,"""Te olette innokas ammatissanne, sen huomaan, niinkuin minä omassani"", sanoi hän.",Finnish,EWC,Final,1,transformer_layer_1,0.8610191941261292,0.13898080587387085
+19,"""Te olette innokas ammatissanne, sen huomaan, niinkuin minä omassani"", sanoi hän.",Finnish,EWC,Final,2,transformer_layer_2,0.8453351855278015,0.1546648144721985

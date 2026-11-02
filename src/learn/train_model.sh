@@ -38,7 +38,7 @@ fi
 # Select which model type to train
 case "$MODEL" in
   gpt2)
-    application="train_gpt2.sh"
+    application="train_gpt2_local.sh"
     ;;
 
   roberta)

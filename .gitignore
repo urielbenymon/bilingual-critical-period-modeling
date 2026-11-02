@@ -137,3 +137,8 @@ wandb/
 *.out
 
 .idea
+
+# Local development files
+.vscode/
+Miniconda3-latest-Linux-x86_64.sh
+*:Zone.Identifier
