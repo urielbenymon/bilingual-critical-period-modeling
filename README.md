@@ -1,4 +1,4 @@
-# Modeling Bilingual Learning Through LLM Training
+# Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration
 
 Code and analysis outputs for the manuscript **"Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration"** by Uriel Benymon, Tristan Whipps, and Armita Ghobadi.
 
