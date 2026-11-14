@@ -7,8 +7,15 @@ authors:
     given-names: Uriel
     orcid: "https://orcid.org/0009-0008-0252-6934"
     affiliation: "Department of Computer Science, Columbia University"
+  - family-names: Whipps
+    given-names: Tristan
+    affiliation: "Department of Cognitive Science, Columbia University"
+  - family-names: Ghobadi
+    given-names: Armita
+    orcid: "https://orcid.org/0009-0006-8766-9269"
+    affiliation: "Department of Psychology, Barnard College"
 repository-code: "https://github.com/urielbenymon/bilingual-critical-period-modeling"
-abstract: "Code and analysis outputs for a study of how English (L1) and German or Finnish (L2) hidden-state representations change in a small GPT-2 model under Sequential and Elastic Weight Consolidation (EWC) training. Principal investigator: Armita Ghobadi."
+abstract: "Code and analysis outputs for a study of how English (L1) and German or Finnish (L2) hidden-state representations change in a small GPT-2 model under Sequential and Elastic Weight Consolidation (EWC) training. Armita Ghobadi served as principal investigator."
 keywords:
   - bilingualism
   - critical period

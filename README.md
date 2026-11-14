@@ -2,7 +2,7 @@
 
 Code and analysis outputs for the manuscript **"Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration"** by Uriel Benymon, Tristan Whipps, and Armita Ghobadi.
 
-- **Authors:** Uriel Benymon and Tristan Whipps (equal contribution)
+- **Authors:** Uriel Benymon, Tristan Whipps, and Armita Ghobadi (Benymon and Whipps contributed equally)
 - **Principal investigator:** Armita Ghobadi, Department of Psychology, Barnard College
 - **Contact:** Uriel Benymon (Department of Computer Science, Columbia University)
 - **Preprint:** forthcoming on PsyArXiv
