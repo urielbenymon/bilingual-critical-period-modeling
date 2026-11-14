@@ -5,7 +5,6 @@ Code and analysis outputs for the manuscript **"Modeling Bilingual Learning Thro
 - **Authors:** Uriel Benymon, Tristan Whipps, and Armita Ghobadi (Benymon and Whipps contributed equally)
 - **Principal investigator:** Armita Ghobadi, Department of Psychology, Barnard College
 - **Contact:** Uriel Benymon (Department of Computer Science, Columbia University)
-- **Preprint:** forthcoming on PsyArXiv
 
 ## Overview
 
