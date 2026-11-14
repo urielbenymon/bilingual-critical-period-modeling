@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below, and also cite the accompanying manuscript."
+title: "bilingual-critical-period-modeling"
+type: software
+authors:
+  - family-names: Benymon
+    given-names: Uriel
+    orcid: "https://orcid.org/0009-0008-0252-6934"
+    affiliation: "Department of Computer Science, Columbia University"
+repository-code: "https://github.com/urielbenymon/bilingual-critical-period-modeling"
+abstract: "Code and analysis outputs for a study of how English (L1) and German or Finnish (L2) hidden-state representations change in a small GPT-2 model under Sequential and Elastic Weight Consolidation (EWC) training. Principal investigator: Armita Ghobadi."
+keywords:
+  - bilingualism
+  - critical period
+  - second language acquisition
+  - neural language models
+  - elastic weight consolidation
+  - representational similarity
+version: "1.0"
+date-released: "2026-11-13"
+preferred-citation:
+  type: article
+  title: "Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration"
+  status: preprint
+  year: 2026
+  authors:
+    - family-names: Benymon
+      given-names: Uriel
+      orcid: "https://orcid.org/0009-0008-0252-6934"
+    - family-names: Whipps
+      given-names: Tristan
+    - family-names: Ghobadi
+      given-names: Armita
+      orcid: "https://orcid.org/0009-0006-8766-9269"
+references:
+  - type: article
+    title: "Investigating Critical Period Effects in Language Acquisition through Neural Language Models"
+    authors:
+      - family-names: Constantinescu
+        given-names: Ionut
+      - family-names: Pimentel
+        given-names: Tiago
+      - family-names: Cotterell
+        given-names: Ryan
+      - family-names: Warstadt
+        given-names: Alex
+    journal: "Transactions of the Association for Computational Linguistics"
+    volume: 13
+    start: 96
+    end: 120
+    year: 2025
+    doi: "10.1162/tacl_a_00725"
